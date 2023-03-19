@@ -17,11 +17,11 @@ In this project several centralized and decentralized methods for Multirobot Pay
 
 ### Demo: 
 - Evolutionary methods NES: 
-	![1](examples/results/evo.mp4)
+	![1](examples/results/evo.gif)
 - PPO: 
-	![2](examples/results/ppo_central.mp4)
+	![2](examples/results/ppo_central.gif)
 - PPO-ERL: 
-
+	![3](examples/results/ppo_erl.gif)
 
 
 
