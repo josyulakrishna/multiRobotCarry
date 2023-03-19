@@ -1,6 +1,8 @@
 ## Multirobot Payload Transport with Deep Reinforcement Learning 
 
 In this project several centralized and decentralized methods for Multirobot Payload transport are explored there are two scenarios for the robots, A closed space with a target and a narrow passage way for the robots to carry payload to. The algorithms experimented are  
+ 
+The code can be found in the "examples" directory, Go ahead and explore all the methods you can find here! 
 
 - Cenralized: 
 	- Proximal Policy Optimization(PPO)
@@ -16,17 +18,19 @@ In this project several centralized and decentralized methods for Multirobot Pay
 		
 
 ### Demo: 
-- Evolutionary methods NES: 
-	![1](examples/results/evo.gif)
-- PPO: 
-	![2](examples/results/ppo_central.gif)
 - PPO-ERL: 
 	![3](examples/results/ppo_erl.gif)
 
+- PPO: 
+	![2](examples/results/ppo_central.gif)
+
+- Evolutionary methods NES: 
+	![1](examples/results/evo.gif)
 
 
-The code can be found in the "examples" directory, Go ahead and explore all the methods you can find here! 
 
 
 
-Project simulation is in PyBullet environment and depends on [Generic URDF robots](https://github.com/maxspahn/gym_envs_urdf/) and I'm very thankful to Max Spahn for his prompt responses and help in building the simulation environment
+
+
+Project simulation is in PyBullet environment and depends on [Generic URDF robots](https://github.com/maxspahn/gym_envs_urdf/). I'm thankful to Max Spahn for his prompt responses and help in building the simulation environment.
