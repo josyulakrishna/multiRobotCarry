@@ -3,16 +3,16 @@
 In this project several centralized and decentralized methods for Multirobot Payload transport are explored there are two scenarios for the robots, A closed space with a target and a narrow passage way for the robots to carry payload to. The algorithms experimented are  
 
 - Cenralized: 
-	⋅⋅ Proximal Policy Optimization(PPO)
-	.. Deep Determinstic Policy Gradients(DDPG)
-	.. Evolution Guided Policy Gradients[PPO-ERL](https://arxiv.org/pdf/1805.07917.pdf) 
+	- Proximal Policy Optimization(PPO)
+	- Deep Determinstic Policy Gradients(DDPG)
+	- Evolution Guided Policy Gradients[PPO-ERL](https://arxiv.org/pdf/1805.07917.pdf) 
 
 
 - Distributed : 
-	..* MAPPO
-	..* MADDPG
-	..* Neurocoevolution
-		..** Hall Of Fame
+	- MAPPO
+	- MADDPG
+	- Neurocoevolution
+		- Hall Of Fame
 		
 
 ### Demo: 
