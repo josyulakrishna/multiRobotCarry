@@ -1,0 +1,56 @@
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+Number of Agents: 2, State Size: 14, Action Size: 2
+startThreads creating 1 threads.
+starting thread 0
+started thread 0
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+X11 functions dynamically loaded using dlopen/dlsym OK!
+X11 functions dynamically loaded using dlopen/dlsym OK!
+Creating context
+Created GL 3.3 context
+Direct GLX rendering context obtained
+Making context current
+GL_VENDOR=Intel
+GL_RENDERER=Mesa Intel(R) UHD Graphics (TGL GT1)
+GL_VERSION=4.6 (Core Profile) Mesa 21.2.6
+GL_SHADING_LANGUAGE_VERSION=4.60
+pthread_getconcurrency()=0
+Version = 4.6 (Core Profile) Mesa 21.2.6
+Vendor = Intel
+Renderer = Mesa Intel(R) UHD Graphics (TGL GT1)
+b3Printf: Selected demo: Physics Server
+startThreads creating 1 threads.
+starting thread 0
+started thread 0
+MotionThreadFunc thread started
+b3Printf: b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+b3Printf: No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frame
+b3Printf: b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+b3Printf: lidar_sensor_link_1
+b3Printf: b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+b3Printf: No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frame
+b3Printf: b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+b3Printf: lidar_sensor_link_1
+ven = Intel
+Workaround for some crash in the Intel OpenGL driver on Linux/Ubuntu
+ven = Intel
+Workaround for some crash in the Intel OpenGL driver on Linux/Ubuntu
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+Traceback (most recent call last):
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/multirobot_mappo_run.py", line 246, in <module>
+    test_agents(env, trainer)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/multirobot_mappo_run.py", line 226, in test_agents
+    done = any(dones)
+TypeError: 'bool' object is not iterable

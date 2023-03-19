@@ -1,0 +1,326 @@
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -3.6378297029482747 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.8507123811497586 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.7305327859633115 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.6568749663058964 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -3.4530105944525666 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -3.8560855757657455 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.185360827502864 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -4.087595670220042 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -3.9413523856554753 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.3702077020127748 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5811818059682787 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.049110575366298 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.3870168825650038 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.4314767974066034 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5351280171816115 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5969946449642105 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.687708669734031 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.3918608333415765 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.176299194640616 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 4.081257077701805 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.860422328927425 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.44425801122092 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.2547948245454164 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.792849952475343 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.96494178183133 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.1023593852906233 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.620388023285022 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.206813058668995 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.9118713534018283 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.190581520745136 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.359609988856189 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.388036829047575 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.505724539863898 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.7202749315178822 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.636161829797853 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.7274562521440586 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.567961479001204 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.4781180581179103 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.9272208922993004 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.955342347413701 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.8204260052204124 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.2607020090491234 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.962641828862641 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.131924015972658 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5102879147769976 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 5.122922919094571 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.060731547878985 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.3756998353365866 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.4297468036976513 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.889784992268516 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.793611722114033 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.155543248211355 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.6340709080210782 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -4.2388196286281925 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 4.780532943346702 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 4.779396732182533 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.6653011984614077 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.4694123890208464 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -3.7647769440431667 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.838519140427288 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.3872322625644613 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5645529212017313 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.434685095239778 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.6256349748102386 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:345: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.3369286169912433 > 2.175

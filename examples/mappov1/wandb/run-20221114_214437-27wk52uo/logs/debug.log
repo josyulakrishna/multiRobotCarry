@@ -1,0 +1,26 @@
+2022-11-14 21:44:37,408 INFO    MainThread:16320 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-14 21:44:37,409 INFO    MainThread:16320 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-14 21:44:37,409 INFO    MainThread:16320 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221114_214437-27wk52uo/logs/debug.log
+2022-11-14 21:44:37,409 INFO    MainThread:16320 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221114_214437-27wk52uo/logs/debug-internal.log
+2022-11-14 21:44:37,410 INFO    MainThread:16320 [wandb_init.py:init():404] calling init triggers
+2022-11-14 21:44:37,410 INFO    MainThread:16320 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-14 21:44:37,410 INFO    MainThread:16320 [wandb_init.py:init():460] starting backend
+2022-11-14 21:44:37,410 INFO    MainThread:16320 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-14 21:44:37,424 INFO    MainThread:16320 [backend.py:ensure_launched():216] starting backend process...
+2022-11-14 21:44:37,428 INFO    MainThread:16320 [backend.py:ensure_launched():221] started backend process with pid: 16356
+2022-11-14 21:44:37,430 INFO    MainThread:16320 [wandb_init.py:init():469] backend started and connected
+2022-11-14 21:44:37,432 INFO    MainThread:16320 [wandb_init.py:init():533] updated telemetry
+2022-11-14 21:44:37,443 INFO    MainThread:16320 [wandb_init.py:init():563] communicating current version
+2022-11-14 21:44:38,621 INFO    MainThread:16320 [wandb_init.py:init():568] got version response upgrade_message: "wandb version 0.13.5 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-11-14 21:44:38,621 INFO    MainThread:16320 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-11-14 21:44:38,774 INFO    MainThread:16320 [wandb_init.py:init():606] starting run threads in backend
+2022-11-14 21:44:43,779 INFO    MainThread:16320 [wandb_run.py:_console_start():1810] atexit reg
+2022-11-14 21:44:43,780 INFO    MainThread:16320 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.REDIRECT
+2022-11-14 21:44:43,780 INFO    MainThread:16320 [wandb_run.py:_redirect():1689] Redirecting console.
+2022-11-14 21:44:43,783 INFO    MainThread:16320 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-11-14 21:44:43,783 INFO    MainThread:16320 [wandb_init.py:init():633] run started, returning control to user process
+2022-11-14 21:47:07,923 INFO    MainThread:16320 [wandb_run.py:_atexit_cleanup():1771] got exitcode: 0
+2022-11-14 21:47:07,924 INFO    MainThread:16320 [wandb_run.py:_restore():1751] restore
+2022-11-14 21:47:08,926 INFO    MainThread:16320 [wandb_run.py:_restore():1751] restore

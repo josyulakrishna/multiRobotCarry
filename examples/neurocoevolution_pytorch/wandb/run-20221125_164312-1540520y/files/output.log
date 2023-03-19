@@ -1,0 +1,1047 @@
+Hello world from worker
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_12
+Best mutation: 0 with reward -123.29999999999995
+TOP mutations: [1]
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.4857816302848534 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.4077488994744427 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 3.104537338190267 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.231035212083416 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.332301616668701 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.5806428610987218 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.1960954666137695 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.3533518314361572 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.181565761566162 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.31731915473938 < -2.175
+		velocity[1]: -2.2612204551696777 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.241959571838379 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2400801181793213 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.4363141329232714 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2356162705087637 > 2.175
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.2439117431778155 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.3665384511611203 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.393122900976831 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.929240059975767 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.600790961770637 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.247349024468612 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.5263936714822495 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.9492816925055934 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.3467890369285174 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.232710964594132 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 3.4742736610029743 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.321556030140335 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.5559310463776694 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2938471586607965 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.400468102411213 < -2.175
+		velocity[2]: 2.3007845995383582 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.3839654815781235 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.7474024295806885 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.244760036468506 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.5555091381796355 > 2.175
+		velocity[1]: 2.754067494744313 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2747161683627395 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.377230224363656 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.2410666942596436 < -2.175
+		velocity[1]: -2.7583215233311207 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.48935866355896 < -2.175
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.6084116865789153 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.7133313456982244 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.2118351459503174 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.7309772968292236 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.676782845920653 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.469566583633423 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.342136384014759 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.6254231929779053 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.501559973027614 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.49405574798584 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.346690467649528 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.2260395731825553 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.165398667816988 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.88474379546183 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.505815029144287 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.1842853910510676 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.5095505714416504 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.993198343598585 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.482879638671875 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.5717740060302368 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.451355933744157 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.3443529607701294 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.2010552883148193 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.3999845979302177 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.2777843475341797 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.643289566040039 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 3.94394588470459 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.409473662677335 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.461393279691054 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.7493758040371006 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.9912415005280057 > 2.175
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.273380041122371 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.1905587956225996 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.688494798820885 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 3.296654595358971 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.599508285522461 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.3286025524139404 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.204606056213379 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.349286443839709 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.5156115466161966 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.8949897018417166 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.023636704968071 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.333126771151687 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.903127431869507 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.472560405358787 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.5091145036632123 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.7343297002919917 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.520280122756958 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.43250844436283 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2493913147082565 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.1930465586944634 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.2102855893241493 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2236963870179647 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.3603484630584717 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 5.028708380754858 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.6498140796771543 > 2.175
+		velocity[2]: -3.276392922015107 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.499652784407589 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.5273759365081787 < -2.175
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.453057662464384 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.200488328933716 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.3580966651295583 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.879613971466676 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.6951746108863492 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.4043940636792507 < -2.175
+		velocity[1]: 2.224624539195218 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.175294718552335 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.2014094829911355 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2817445320174095 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.2781925201416016 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.344596621701658 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.7546586989946142 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.406154871726427 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.695366859436035 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.306281449853772 < -2.175
+		velocity[2]: -2.4100559789041656 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.4503698348999023 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.745659112930298 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2070562866203884 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2043080314010486 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.296966552734375 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.2585721015930176 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.207008865590884 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 4.055264546328493 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.9670469689859185 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.5586080292905007 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.4765299374620633 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.3264860710259554 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.56880201580858 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.176385156782669 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.6303774295609648 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.3065373869673036 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.480749856423307 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2996344566345215 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.4372971057891846 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.8349720990012517 > 2.175
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.899476527790805 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.434238636936831 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.86350913865964 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.3902821540984003 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.6705894470214844 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.202725410463058 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 3.009208917617798 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.1950340270996094 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.3803651332888505 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.7148258686065674 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.1573007106781006 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.1800465583844493 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.3910308056475342 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.1831194184055054 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.569233361415325 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 3.134209834473633 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.3914456367492676 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.788856644327501 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: 2.449460694785289 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[2]: -2.857556337370397 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.3797697955891426 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.8704576411864573 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.5832910628039696 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.75808922149851 > 2.175
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -3.203187942504883 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.2772774696350098 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.2770145358736777 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.48950072789643 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.774282455444336 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: 2.188572046635706 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.3448421809432083 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: -2.486343187066954 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.3214685917395066 < -2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.2762591826954846 > 2.175
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:404: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[0]: 2.487456813823373 > 2.175
+  warnings.warn(str(err))
+Traceback (most recent call last):
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py", line 14, in <module>
+    trainer.step()
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_ga.py", line 117, in step
+    evaluate_timesteps = [result['timesteps_vs_elite'] for result in evaluate_results]
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_ga.py", line 117, in <listcomp>
+    evaluate_timesteps = [result['timesteps_vs_elite'] for result in evaluate_results]
+KeyError: 'timesteps_vs_elite'
+Process ForkPoolWorker-2:
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/queues.py", line 365, in get
+    res = self._reader.recv_bytes()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/connection.py", line 221, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt

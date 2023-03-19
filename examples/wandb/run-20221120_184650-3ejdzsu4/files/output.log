@@ -1,0 +1,21 @@
+
+pybullet build time: May 20 2022 19:45:31
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1Backend TkAgg is interactive backend. Turning interactive mode on.
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/functional.py:1949: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+Traceback (most recent call last):
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py", line 159, in <module>
+    es = NSRA_ES(Policy, Agent, torch.optim.Adam, population_size=10, sigma=0.1,
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 668, in __init__
+    super().__init__(policy=policy, agent=agent, optimizer=optimizer,
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 426, in __init__
+    reward, bc = self.agent.rollout(p)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py", line 128, in rollout
+    bc = np.concatenate(last_actions).flatten().reshape(-1, 4)
+KeyboardInterrupt

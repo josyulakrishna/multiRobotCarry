@@ -1,0 +1,192 @@
+2022-11-20 15:35:30,067 INFO    MainThread:12196 [internal.py:wandb_internal():87] W&B internal server running at pid: 12196, started at: 2022-11-20 15:35:30.067494
+2022-11-20 15:35:30,069 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: check_version
+2022-11-20 15:35:30,069 DEBUG   SenderThread:12196 [sender.py:send():234] send: header
+2022-11-20 15:35:30,069 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: check_version
+2022-11-20 15:35:30,069 INFO    WriterThread:12196 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/run-2r373b5h.wandb
+2022-11-20 15:35:30,112 DEBUG   SenderThread:12196 [sender.py:send():234] send: run
+2022-11-20 15:35:30,244 INFO    SenderThread:12196 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files
+2022-11-20 15:35:30,244 INFO    SenderThread:12196 [sender.py:_start_run_threads():804] run started: 2r373b5h with start time 1668987329
+2022-11-20 15:35:30,244 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:35:30,244 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:35:30,244 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: run_start
+2022-11-20 15:35:31,053 DEBUG   HandlerThread:12196 [meta.py:__init__():40] meta init
+2022-11-20 15:35:31,053 DEBUG   HandlerThread:12196 [meta.py:__init__():54] meta init done
+2022-11-20 15:35:31,053 DEBUG   HandlerThread:12196 [meta.py:probe():214] probe
+2022-11-20 15:35:31,060 DEBUG   HandlerThread:12196 [meta.py:_setup_git():204] setup git
+2022-11-20 15:35:31,077 DEBUG   HandlerThread:12196 [meta.py:_setup_git():211] setup git done
+2022-11-20 15:35:31,077 DEBUG   HandlerThread:12196 [meta.py:_save_pip():58] save pip
+2022-11-20 15:35:31,078 DEBUG   HandlerThread:12196 [meta.py:_save_pip():72] save pip done
+2022-11-20 15:35:31,078 DEBUG   HandlerThread:12196 [meta.py:_save_conda():79] save conda
+2022-11-20 15:35:31,247 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/conda-environment.yaml
+2022-11-20 15:35:31,248 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/requirements.txt
+2022-11-20 15:35:31,249 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:35:36,247 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:35:37,247 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/conda-environment.yaml
+2022-11-20 15:35:37,544 DEBUG   HandlerThread:12196 [meta.py:_save_conda():89] save conda done
+2022-11-20 15:35:37,544 DEBUG   HandlerThread:12196 [meta.py:probe():252] probe done
+2022-11-20 15:35:37,547 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:35:37,548 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:35:37,664 DEBUG   SenderThread:12196 [sender.py:send():234] send: files
+2022-11-20 15:35:37,664 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-20 15:35:38,247 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:35:38,248 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-metadata.json
+2022-11-20 15:35:38,426 INFO    Thread-11 :12196 [upload_job.py:push():137] Uploaded file /tmp/tmprgwr0flswandb/3hpgzwn3-wandb-metadata.json
+2022-11-20 15:35:47,067 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:35:47,068 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:35:47,069 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:35:47,251 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:35:50,253 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:35:52,666 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:35:52,666 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:35:59,420 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:36:04,110 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:36:04,110 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:36:04,111 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:36:04,257 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:36:06,259 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:36:07,779 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:36:07,780 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:36:16,434 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:36:16,434 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:36:16,436 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:36:17,264 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:36:18,264 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:36:22,898 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:36:22,898 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:36:29,434 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:36:29,434 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:36:29,435 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:36:29,817 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:36:30,268 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:36:32,270 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:36:38,019 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:36:38,019 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:36:53,134 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:36:53,135 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:36:56,988 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:36:56,988 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:36:56,990 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:36:57,277 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:37:00,196 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:37:00,278 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:37:08,242 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:37:08,243 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:37:10,929 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:37:10,930 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:37:10,930 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:37:11,284 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:37:14,286 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:37:23,362 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:37:23,363 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:37:26,480 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:37:26,480 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:37:26,481 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:37:27,290 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:37:28,291 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:37:30,640 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:37:38,476 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:37:38,476 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:37:41,825 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:37:41,825 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:37:41,825 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:37:42,296 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:37:44,296 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:37:53,589 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:37:53,589 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:37:57,829 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:37:57,829 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:37:57,829 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:37:58,301 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:38:00,302 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:38:01,157 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:38:08,711 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:38:08,711 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:38:14,869 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:38:14,870 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:38:14,870 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:38:15,311 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:38:16,312 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:38:23,828 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:38:23,829 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:38:31,703 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:38:33,874 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:38:33,874 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:38:33,874 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:38:34,320 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:38:36,320 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:38:38,944 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:38:38,945 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:38:54,132 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:38:54,132 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:38:55,337 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:38:55,338 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:38:55,339 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:38:56,327 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:38:58,328 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:39:02,202 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:39:09,243 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:39:09,243 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:39:17,611 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:39:17,612 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:39:17,612 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:39:18,335 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:39:20,335 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:39:24,378 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:39:24,379 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:39:32,720 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:39:39,500 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:39:39,500 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:39:39,685 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:39:39,686 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:39:39,687 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:39:40,342 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:39:42,343 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:39:54,606 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:39:54,606 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:40:03,177 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:40:03,557 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:40:03,558 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:40:03,558 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:40:04,351 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:40:06,351 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:40:09,729 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:40:09,730 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:40:24,841 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:40:24,841 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:40:27,705 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:40:27,705 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:40:27,706 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:40:28,359 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:40:30,360 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:40:33,673 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:40:39,958 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:40:39,959 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:40:52,248 DEBUG   SenderThread:12196 [sender.py:send():234] send: history
+2022-11-20 15:40:52,249 DEBUG   SenderThread:12196 [sender.py:send():234] send: summary
+2022-11-20 15:40:52,249 INFO    SenderThread:12196 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 15:40:52,367 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:40:54,368 INFO    Thread-8  :12196 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:40:55,082 DEBUG   HandlerThread:12196 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 15:40:55,082 DEBUG   SenderThread:12196 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 15:41:04,350 DEBUG   SenderThread:12196 [sender.py:send():234] send: stats
+2022-11-20 15:41:07,408 WARNING MainThread:12196 [internal.py:is_dead():366] Internal process exiting, parent pid 12034 disappeared
+2022-11-20 15:41:07,409 ERROR   MainThread:12196 [internal.py:wandb_internal():142] Internal process shutdown.
+2022-11-20 15:41:08,351 INFO    HandlerThread:12196 [handler.py:finish():731] shutting down handler
+2022-11-20 15:41:08,352 INFO    SenderThread:12196 [sender.py:finish():1070] shutting down sender
+2022-11-20 15:41:08,352 INFO    SenderThread:12196 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-11-20 15:41:08,352 INFO    WriterThread:12196 [datastore.py:close():281] close: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/run-2r373b5h.wandb
+2022-11-20 15:41:08,373 INFO    SenderThread:12196 [dir_watcher.py:finish():313] scan: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files
+2022-11-20 15:41:08,373 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/conda-environment.yaml conda-environment.yaml
+2022-11-20 15:41:08,374 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log output.log
+2022-11-20 15:41:08,374 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json wandb-summary.json
+2022-11-20 15:41:08,374 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/config.yaml config.yaml
+2022-11-20 15:41:08,375 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/requirements.txt requirements.txt
+2022-11-20 15:41:08,375 INFO    SenderThread:12196 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-metadata.json wandb-metadata.json
+2022-11-20 15:41:08,375 INFO    SenderThread:12196 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-20 15:41:08,375 INFO    SenderThread:12196 [file_pusher.py:join():182] waiting for file pusher
+2022-11-20 15:41:08,982 INFO    Thread-13 :12196 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/output.log
+2022-11-20 15:41:08,984 INFO    Thread-12 :12196 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/conda-environment.yaml
+2022-11-20 15:41:08,985 INFO    Thread-14 :12196 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/wandb-summary.json
+2022-11-20 15:41:08,986 INFO    Thread-16 :12196 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/requirements.txt
+2022-11-20 15:41:09,025 INFO    Thread-15 :12196 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_153523-2r373b5h/files/config.yaml
+2022-11-20 15:41:09,466 INFO    MainThread:12196 [internal.py:handle_exit():77] Internal process exited

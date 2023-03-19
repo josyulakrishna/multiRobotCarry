@@ -1,0 +1,11 @@
+
+Hello world from worker
+{'generation': 0, 'prev_gen_fit_1': -118.26666666666671, 'mut_gen_fit_1': -80.43333333333331, 'prev_gen_fit_2': -53.46666666666671, 'mut_gen_fit_2': -80.43333333333331, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 1, 'prev_gen_fit_1': -45.26666666666664, 'mut_gen_fit_1': -55.3666666666668, 'prev_gen_fit_2': -45.26666666666664, 'mut_gen_fit_2': -77.8333333333333, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 2, 'prev_gen_fit_1': -11.866666666666644, 'mut_gen_fit_1': -54.466666666666804, 'prev_gen_fit_2': -11.866666666666644, 'mut_gen_fit_2': -77.7333333333333, 'team_player1and2hofg': -10.799999999999978, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 3, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -10.799999999999978, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 4, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 5, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 6, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 7, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 8, 'prev_gen_fit_1': -9.733333333333317, 'mut_gen_fit_1': -86.46666666666678, 'prev_gen_fit_2': -9.733333333333317, 'mut_gen_fit_2': -43.16666666666664, 'team_player1and2hofg': -12.299999999999974, 'goal_reaches': 0, 'wall_pass': 0}

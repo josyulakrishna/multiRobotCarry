@@ -1,0 +1,35 @@
+multiprocessing.pool.RemoteTraceback:
+"""
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/worker_ga.py", line 60, in evaluate_hof_diff
+    self.random_player.mutate_weights()
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/utils_torch/chromosome.py", line 60, in mutate_weights
+    self.model.apply(weights)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 668, in apply
+    module.apply(fn)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 669, in apply
+    fn(self)
+TypeError: 'collections.OrderedDict' object is not callable
+"""
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3251, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-00211fd210af>", line 1, in <module>
+    runfile('/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py', wdir='/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch')
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py", line 14, in <module>
+    trainer.step_hof_difference_reward()
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_ga.py", line 237, in step_hof_difference_reward
+    fitness_pop_player1_prev_gen += [fitness_pool.starmap(self.worker_class.evaluate_hof_diff, zip(previous_generation_player1[i], [player2_individuals[i]]*self.k))]
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 372, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value

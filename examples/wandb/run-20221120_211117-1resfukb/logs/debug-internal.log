@@ -1,0 +1,136 @@
+2022-11-20 21:11:18,563 INFO    MainThread:15867 [internal.py:wandb_internal():87] W&B internal server running at pid: 15867, started at: 2022-11-20 21:11:18.563676
+2022-11-20 21:11:18,566 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: check_version
+2022-11-20 21:11:18,566 INFO    WriterThread:15867 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/run-1resfukb.wandb
+2022-11-20 21:11:18,568 DEBUG   SenderThread:15867 [sender.py:send():234] send: header
+2022-11-20 21:11:18,568 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: check_version
+2022-11-20 21:11:18,644 DEBUG   SenderThread:15867 [sender.py:send():234] send: run
+2022-11-20 21:11:18,834 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: run_start
+2022-11-20 21:11:18,837 INFO    SenderThread:15867 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files
+2022-11-20 21:11:18,837 INFO    SenderThread:15867 [sender.py:_start_run_threads():804] run started: 1resfukb with start time 1669007477
+2022-11-20 21:11:18,837 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:11:18,838 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:11:19,841 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:11:20,394 DEBUG   HandlerThread:15867 [meta.py:__init__():40] meta init
+2022-11-20 21:11:20,394 DEBUG   HandlerThread:15867 [meta.py:__init__():54] meta init done
+2022-11-20 21:11:20,394 DEBUG   HandlerThread:15867 [meta.py:probe():214] probe
+2022-11-20 21:11:20,400 DEBUG   HandlerThread:15867 [meta.py:_setup_git():204] setup git
+2022-11-20 21:11:20,419 DEBUG   HandlerThread:15867 [meta.py:_setup_git():211] setup git done
+2022-11-20 21:11:20,419 DEBUG   HandlerThread:15867 [meta.py:_save_pip():58] save pip
+2022-11-20 21:11:20,421 DEBUG   HandlerThread:15867 [meta.py:_save_pip():72] save pip done
+2022-11-20 21:11:20,421 DEBUG   HandlerThread:15867 [meta.py:_save_conda():79] save conda
+2022-11-20 21:11:20,838 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/requirements.txt
+2022-11-20 21:11:20,839 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/conda-environment.yaml
+2022-11-20 21:11:24,839 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:26,533 DEBUG   HandlerThread:15867 [meta.py:_save_conda():89] save conda done
+2022-11-20 21:11:26,533 DEBUG   HandlerThread:15867 [meta.py:probe():252] probe done
+2022-11-20 21:11:26,537 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:11:26,537 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:11:26,648 DEBUG   SenderThread:15867 [sender.py:send():234] send: files
+2022-11-20 21:11:26,648 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-20 21:11:26,840 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:26,840 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/conda-environment.yaml
+2022-11-20 21:11:26,840 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-metadata.json
+2022-11-20 21:11:27,134 INFO    Thread-16 :15867 [upload_job.py:push():137] Uploaded file /tmp/tmpkybndq6jwandb/36630etm-wandb-metadata.json
+2022-11-20 21:11:28,841 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:30,842 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:32,842 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:34,843 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:36,844 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:38,845 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:40,847 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:42,024 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:11:42,024 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:11:43,848 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:45,849 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:47,849 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:48,622 DEBUG   SenderThread:15867 [sender.py:send():234] send: stats
+2022-11-20 21:11:49,850 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:51,226 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:11:51,226 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:11:51,227 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:11:51,851 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:51,852 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:11:53,852 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:55,853 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:11:57,234 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:11:57,234 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:11:58,854 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:00,855 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:02,855 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:04,856 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:06,858 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:07,260 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:12:07,260 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:12:07,261 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:12:07,860 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:12:08,859 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:10,860 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:12,355 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:12:12,355 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:12:12,861 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:15,862 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:17,863 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:18,851 DEBUG   SenderThread:15867 [sender.py:send():234] send: stats
+2022-11-20 21:12:19,864 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:21,865 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:23,730 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:12:23,731 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:12:23,731 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:12:23,866 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:23,866 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:12:25,867 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:27,485 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:12:27,485 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:12:29,868 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:31,869 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:33,870 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:35,871 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:38,873 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:39,936 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:12:39,936 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:12:39,937 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:12:40,873 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:40,874 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:12:42,603 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:12:42,604 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:12:42,874 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:44,875 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:46,876 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:49,090 DEBUG   SenderThread:15867 [sender.py:send():234] send: stats
+2022-11-20 21:12:49,877 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:51,878 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:53,879 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:55,879 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:56,243 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:12:56,243 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:12:56,243 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:12:56,880 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:12:57,721 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:12:57,722 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:12:57,881 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:12:59,881 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:02,883 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:04,883 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:06,884 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:08,885 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:10,886 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:10,976 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:13:10,977 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:13:10,977 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:13:11,886 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json
+2022-11-20 21:13:12,825 DEBUG   HandlerThread:15867 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:13:12,825 DEBUG   SenderThread:15867 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:13:12,887 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:14,888 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:16,888 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:18,889 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:19,324 DEBUG   SenderThread:15867 [sender.py:send():234] send: stats
+2022-11-20 21:13:21,890 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:23,891 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:25,892 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:27,100 DEBUG   SenderThread:15867 [sender.py:send():234] send: history
+2022-11-20 21:13:27,100 DEBUG   SenderThread:15867 [sender.py:send():234] send: summary
+2022-11-20 21:13:27,101 INFO    SenderThread:15867 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:13:27,584 WARNING MainThread:15867 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-11-20 21:13:27,893 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/output.log
+2022-11-20 21:13:27,893 INFO    Thread-13 :15867 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211117-1resfukb/files/wandb-summary.json

@@ -1,0 +1,2 @@
+2022-11-12 16:04:52,281 INFO    MainThread:49482 [internal.py:wandb_internal():87] W&B internal server running at pid: 49482, started at: 2022-11-12 16:04:52.280559
+2022-11-12 16:07:00,720 WARNING MainThread:49482 [internal.py:wandb_internal():146] Internal process interrupt: 1

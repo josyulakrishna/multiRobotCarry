@@ -1,0 +1,25 @@
+
+Hello world from worker
+multiprocessing.pool.RemoteTraceback:
+"""
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+TypeError: evaluate_mutations() missing 1 required positional argument: 'oponent'
+"""
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py", line 14, in <module>
+    trainer.step()
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_ga.py", line 72, in step
+    results += mutation_pool.map(self.worker_class.evaluate_mutations, self.population_player1[i])
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value

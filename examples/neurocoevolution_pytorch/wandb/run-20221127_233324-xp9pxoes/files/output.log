@@ -1,0 +1,29 @@
+multiprocessing.pool.RemoteTraceback:
+"""
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 51, in starmapstar
+    return list(itertools.starmap(args[0], args[1]))
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/worker_es.py", line 37, in evaluate_team_fitness
+    self.player1.set_weights(player1)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/utils_torch/chromosome.py", line 56, in set_weights
+    self.model.load_state_dict(new_weights)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1559, in load_state_dict
+    raise TypeError("Expected state_dict to be dict-like, got {}.".format(type(state_dict)))
+TypeError: Expected state_dict to be dict-like, got <class 'tuple'>.
+"""
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py", line 14, in <module>
+    trainer.step()
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_es.py", line 74, in step
+    fitness_player1 += [fitness_pool.starmap(self.worker_class.evaluate_team_fitness, zip(mutations_player1[i], [self.player2_hof_best]*self.n))]
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 372, in starmap
+    return self._map_async(func, iterable, starmapstar, chunksize).get()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value

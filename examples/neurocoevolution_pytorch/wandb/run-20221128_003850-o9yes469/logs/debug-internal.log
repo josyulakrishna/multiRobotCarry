@@ -1,0 +1,46 @@
+2022-11-28 00:38:51,792 INFO    MainThread:13244 [internal.py:wandb_internal():87] W&B internal server running at pid: 13244, started at: 2022-11-28 00:38:51.792455
+2022-11-28 00:38:51,794 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: check_version
+2022-11-28 00:38:51,795 INFO    WriterThread:13244 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/run-o9yes469.wandb
+2022-11-28 00:38:51,797 DEBUG   SenderThread:13244 [sender.py:send():234] send: header
+2022-11-28 00:38:51,797 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: check_version
+2022-11-28 00:38:51,857 DEBUG   SenderThread:13244 [sender.py:send():234] send: run
+2022-11-28 00:38:52,113 INFO    SenderThread:13244 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files
+2022-11-28 00:38:52,113 INFO    SenderThread:13244 [sender.py:_start_run_threads():804] run started: o9yes469 with start time 1669624730
+2022-11-28 00:38:52,113 DEBUG   SenderThread:13244 [sender.py:send():234] send: summary
+2022-11-28 00:38:52,113 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: run_start
+2022-11-28 00:38:52,114 INFO    SenderThread:13244 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-28 00:38:53,123 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/wandb-summary.json
+2022-11-28 00:38:53,654 DEBUG   HandlerThread:13244 [meta.py:__init__():40] meta init
+2022-11-28 00:38:53,654 DEBUG   HandlerThread:13244 [meta.py:__init__():54] meta init done
+2022-11-28 00:38:53,654 DEBUG   HandlerThread:13244 [meta.py:probe():214] probe
+2022-11-28 00:38:53,660 DEBUG   HandlerThread:13244 [meta.py:_setup_git():204] setup git
+2022-11-28 00:38:53,676 DEBUG   HandlerThread:13244 [meta.py:_setup_git():211] setup git done
+2022-11-28 00:38:53,677 DEBUG   HandlerThread:13244 [meta.py:_save_pip():58] save pip
+2022-11-28 00:38:53,678 DEBUG   HandlerThread:13244 [meta.py:_save_pip():72] save pip done
+2022-11-28 00:38:53,678 DEBUG   HandlerThread:13244 [meta.py:_save_conda():79] save conda
+2022-11-28 00:38:54,118 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/conda-environment.yaml
+2022-11-28 00:38:54,118 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/requirements.txt
+2022-11-28 00:38:58,119 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/output.log
+2022-11-28 00:38:59,941 DEBUG   HandlerThread:13244 [meta.py:_save_conda():89] save conda done
+2022-11-28 00:38:59,941 DEBUG   HandlerThread:13244 [meta.py:probe():252] probe done
+2022-11-28 00:38:59,944 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:38:59,945 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:39:00,054 DEBUG   SenderThread:13244 [sender.py:send():234] send: files
+2022-11-28 00:39:00,054 INFO    SenderThread:13244 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-28 00:39:00,120 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/conda-environment.yaml
+2022-11-28 00:39:00,121 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/wandb-metadata.json
+2022-11-28 00:39:00,501 INFO    Thread-16 :13244 [upload_job.py:push():137] Uploaded file /tmp/tmp_mb0msqawandb/3fq4f7bt-wandb-metadata.json
+2022-11-28 00:39:15,059 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:39:15,060 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:39:21,941 DEBUG   SenderThread:13244 [sender.py:send():234] send: stats
+2022-11-28 00:39:30,239 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:39:30,240 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:39:45,373 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:39:45,374 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:39:52,243 DEBUG   SenderThread:13244 [sender.py:send():234] send: stats
+2022-11-28 00:40:00,537 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:40:00,537 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:40:15,661 DEBUG   HandlerThread:13244 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-28 00:40:15,661 DEBUG   SenderThread:13244 [sender.py:send_request():248] send_request: stop_status
+2022-11-28 00:40:16,513 WARNING MainThread:13244 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-11-28 00:40:18,168 INFO    Thread-13 :13244 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221128_003850-o9yes469/files/output.log

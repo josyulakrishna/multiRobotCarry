@@ -1,0 +1,9 @@
+pybullet build time: May 20 2022 19:45:31
+Traceback (most recent call last):
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py", line 160, in <module>
+    es = ES(Policy, Agent, torch.optim.Adam, population_size=10, sigma=0.1,
+TypeError: __init__() got an unexpected keyword argument 'weight_t'

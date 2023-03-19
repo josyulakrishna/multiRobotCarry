@@ -1,0 +1,49 @@
+2022-11-12 16:10:45,869 INFO    MainThread:50359 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-12 16:10:45,869 INFO    MainThread:50359 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-12 16:10:45,870 INFO    MainThread:50359 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_161045-glrff40t/logs/debug.log
+2022-11-12 16:10:45,870 INFO    MainThread:50359 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_161045-glrff40t/logs/debug-internal.log
+2022-11-12 16:10:45,870 INFO    MainThread:50359 [wandb_init.py:init():404] calling init triggers
+2022-11-12 16:10:45,870 INFO    MainThread:50359 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {'env_name': 'MultiRobotCarry', 'has_continuous_action_space': True, 'max_ep_len': 10000, 'max_training_timesteps': 3000000, 'print_freq': 100000, 'log_freq': 20000, 'save_model_freq': 100000, 'action_std': 0.6, 'action_std_decay_rate': 0.05, 'min_action_std': 0.1, 'action_std_decay_freq': 250000, 'update_timestep': 4, 'K_epochs': 80, 'eps_clip': 0.2, 'gamma': 0.99, 'lr_actor': 0.0003, 'lr_critic': 0.001, 'random_seed': 42}
+2022-11-12 16:10:45,870 INFO    MainThread:50359 [wandb_init.py:init():460] starting backend
+2022-11-12 16:10:45,871 INFO    MainThread:50359 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-12 16:10:45,892 INFO    MainThread:50359 [backend.py:ensure_launched():216] starting backend process...
+2022-11-12 16:10:45,900 INFO    MainThread:50359 [backend.py:ensure_launched():221] started backend process with pid: 50401
+2022-11-12 16:10:45,903 INFO    MainThread:50359 [wandb_init.py:init():469] backend started and connected
+2022-11-12 16:10:45,908 INFO    MainThread:50359 [wandb_init.py:init():533] updated telemetry
+2022-11-12 16:10:45,932 INFO    MainThread:50359 [wandb_init.py:init():563] communicating current version
+2022-11-12 16:10:47,888 INFO    MainThread:50359 [wandb_init.py:init():568] got version response upgrade_message: "wandb version 0.13.5 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-11-12 16:10:47,888 INFO    MainThread:50359 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-11-12 16:10:48,183 INFO    MainThread:50359 [wandb_init.py:init():606] starting run threads in backend
+2022-11-12 16:10:53,193 INFO    MainThread:50359 [wandb_run.py:_console_start():1810] atexit reg
+2022-11-12 16:10:53,194 INFO    MainThread:50359 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.REDIRECT
+2022-11-12 16:10:53,195 INFO    MainThread:50359 [wandb_run.py:_redirect():1689] Redirecting console.
+2022-11-12 16:10:53,196 ERROR   MainThread:50359 [wandb_run.py:_redirect():1748] Failed to redirect.
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1741, in _redirect
+    out_redir.install()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 710, in install
+    self._orig_src_fd = os.dup(self.src_fd)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 508, in src_fd
+    return self.src_stream.fileno()
+ValueError: I/O operation on closed file
+2022-11-12 16:10:53,198 INFO    MainThread:50359 [wandb_init.py:init():633] run started, returning control to user process
+2022-11-12 16:12:04,462 INFO    MainThread:50359 [wandb_run.py:_atexit_cleanup():1780] got exitcode: 0
+2022-11-12 16:12:04,465 INFO    MainThread:50359 [wandb_run.py:_restore():1752] restore
+2022-11-12 16:12:04,476 INFO    MainThread:50359 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 861
+  total_bytes: 861
+}
+
+2022-11-12 16:12:04,719 INFO    MainThread:50359 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 861
+  total_bytes: 861
+}
+

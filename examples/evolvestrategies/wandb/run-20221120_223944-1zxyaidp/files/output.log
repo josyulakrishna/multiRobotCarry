@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3251, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-4abf4ddbc274>", line 1, in <module>
+    runfile('/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/multirobot_carry_evo.py', wdir='/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies')
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/multirobot_carry_evo.py", line 19, in <module>
+    population = NormalPopulation(param_shapes, MRCarry.from_params, device="cuda:0")

@@ -1,0 +1,1886 @@
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/functional.py:1949: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.00999561802539 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.008752725357225 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.007873402491037 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0070441966077075 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.006197831903749 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0053201823504585 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.004425938713341 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.019541165956845 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.018295302574444 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.017420811737753 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.016595276380312 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.015820738025999 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0149866647602535 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.01414815031686 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.029194662123715 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.027930995574049 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.027031968078298 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.026193483664561 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.025324292824862 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.024433389842384 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.039535475893938 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0382913244845735 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0374044863241245 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0366267844137464 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.035829423872884 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.035008267387397 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0341537229997755 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.04918311212087 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0479411275534405 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.047053902333953 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.046207958605808 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.045373206474051 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.044538751137217 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.059629129192256 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0584022096493255 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.057524073317391 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.056701397127049 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.055860318446982 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.054995136613819 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.054099962001195 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.069219477948196 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.068025917753418 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.067150554186736 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.066327052664942 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.065469151212789 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.064585666866542 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.063690872121049 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0788230011260405 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.077626065769554 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.076764112674469 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.07590351024898 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.075034338387063 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.074135475767946 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.089223081110587 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.087997712519149 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.087123507754536 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.086292465532849 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.085443020188025 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.084577254215661 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0837193208978535 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.098813677743752 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.097564052036344 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.096665237208022 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.095817464614416 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.094960610275653 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.094073769694625 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.093179838701277 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.10828735088444 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.1070666625702765 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.1061664380735605 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.105367009598508 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.104583072346163 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.103715941530497 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.118848487548795 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.117637606403321 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.116802157964625 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.11603477954733 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.115254926221882 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.11444465320988 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.113602487478076 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.128766607830989 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.12758725429313 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.126770579875831 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.125983243079718 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.125168104179412 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.124348908695199 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.123517698100231 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.138669886947375 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.137480429636856 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.136604220968845 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.13579887807302 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.135010614615728 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.134193370623069 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.133333125391728 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.148389802336241 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.147118335565019 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.146215544800355 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.145381648257046 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.14453109630593 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.143678577060627 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.158769380353679 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.157511009717767 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.1566351307561735 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.155828955390522 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.154992225685332 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.154126356898831 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.153228305696716 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.168338404412883 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.1671215249448865 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.166263435100162 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.165449699102243 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.1646531040512516 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.163820449906412 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.162979059209857 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.178114978370199 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.176898618311556 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.175976805571298 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.175109365059831 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.174236814188261 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.173337121793063 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.188412091734356 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.187161226407027 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.186261343390073 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.185424346655342 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.184573968719386 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.183694129970753 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.182800617119001 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.197931098091329 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.196728182439494 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.195853785785458 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.19508732441092 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.194274809518376 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.193381229338137 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.192508121231817 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.207608718593676 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.206347882836601 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.205476832330815 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.204675782045595 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.203859086172371 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.203010041112857 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.218148519802827 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.21697059460892 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.216127814015485 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2153549187877895 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.214545186777501 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.21373453704812 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.212881831324095 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2280238914603245 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.226837697146311 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.225973666435918 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.225170952106722 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.224360178199436 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.223514016608946 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.222663978818239 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2377659912855705 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.236551237936724 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.235666829622953 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.234843873286246 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.234007983355243 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.233179985392302 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2482378866572885 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.24701467795327 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.246137286607917 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.24534592972524 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.244549157537691 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.243722192108061 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.242847839262713 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2579127842669235 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.256662006260938 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.255778475845553 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.254967877719388 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.254121479052536 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.253247101996547 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2523375369783265 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2674564350326385 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.266216915841965 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.265350399205964 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2645421722799774 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.263735635334675 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2628546595917935 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.277955462671789 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.2767070154873394 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.275798103316301 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.274948659776521 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.274098744533678 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.273217427182642 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.272318504406812 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.287438143996548 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.28621104553545 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.285338164235476 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.284542473235459 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.28375470116198 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.282891174331464 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.297952265753137 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.296743332108609 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.295844960245803 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.295005346316206 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.294160391480784 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.29328246839314 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.292392618975072 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3075231946505195 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3063245233937 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.305466107947162 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.304689709008549 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3039041704367795 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.303094917341467 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.302241906451954 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.317339990418132 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.316097743990376 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3152070708969825 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.31436182721013 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.313497393400662 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.312607900270268 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3116994979857965 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3267563951217936 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.325504244548909 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.324609501842455 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.323824923473828 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.32302365548677 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.322188231921586 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.337266819703518 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.336003424919864 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.335113584185006 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.334282118957522 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.333444806104125 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.332590386245458 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.331717869029204 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.346843865666812 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.345647365153112 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.344808402006793 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.344013346920802 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.343213684055391 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.342394174086721 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.35755188678684 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.356359202774973 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.355515443883902 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.354762367981243 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.353977107030756 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.353184306102577 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.352376219257967 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.367510071606706 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.366336943064574 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3654867210543555 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.364742177869407 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.363971464420785 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.363133516124411 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.362289904205303 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.377400708612357 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.376215766113738 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.375356615025648 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.374579796262206 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.373791502871905 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.372992861255937 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.372124493146443 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.387205588529989 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.385957186131075 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.385076119424093 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.3842720995492135 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.383438396813118 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.382590132140737 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.381700635751773 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.396759919084247 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.395489663977897 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.394600806796057 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.393764020032577 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.392894751161483 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.392004726880551 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.407133555980782 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.405930100746468 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.405052211472318 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.404263908550657 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.403478547873947 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.402678274835034 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.401829048061184 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.417000692120376 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.415789412584268 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.414919643553571 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.414117671926922 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.41329856268041 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.412498328940355 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.411639755118154 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.426773351400063 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.4255862680853895 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.424725543737725 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.423945708971388 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.423133282546255 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.422331611728223 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.437467169073481 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.436304680344631 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.435473707067622 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.434700674867025 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.433905880044701 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.433145884741553 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.432295591096635 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.44741026627086 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.4461731385890575 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.445276873118213 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.444441054329176 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.4435978545918955 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.4427262745373195 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.441855992007947 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.456913619592288 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.455652858549412 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.454769186539755 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.453941972924729 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.453089233465639 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.452207607333789 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.451308193899334 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.466380403712939 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.465140719562012 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.464254276001142 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.463404049335277 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.462531614823017 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.461635677061799 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.476673352641344 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.475439314195901 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.474566176807048 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.473732139510908 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.472887335956533 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.4720040200456905 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.47110160027581 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.486143945343455 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.484869956305781 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.483958951554515 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.483096641507133 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.000515883856095 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.482250866494468 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.001314991527247 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.481429111917716 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.002159989466341 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.496535509609666 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.006980039796197 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.495330818879307 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.008196646500344 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.494463367972538 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.009056816248948 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.493664608165942 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.009819221225579 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.492858117018761 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0106662501837675 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.49203462262485 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.011502281189346 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.491211089748897 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0123422539820695 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.506374601225356 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.017160321569665 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.50520831389589 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.0183791145187975 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.50432880190342 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.019223521472456 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.503533793027476 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.020004315894083 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.502749202078503 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.020850476361544 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.501943758017456 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.021672577093571 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.501101392044972 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.022535453261071 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.516262161249394 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.027372669490385 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.5150906325565945 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.028554509655686 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.514205193543349 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.029413724867874 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.513393602215217 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.030184058740864 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.512608216594347 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.031026471035349 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.511786848936757 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.031863176011514 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.510958919483531 > 5.0
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in position
+		position[0]: 5.03270854433295 > 5.0
+  warnings.warn(str(err))
+/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py:456: RuntimeWarning: divide by zero encountered in double_scalars
+  novelty = np.linalg.norm(_archive_traingle_areas)/np.sum(distances)
+/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py:494: RuntimeWarning: invalid value encountered in divide
+  meta_population_probability = total_novelty / np.sum(total_novelty)
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3251, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-203b289ebc1b>", line 1, in <module>
+    runfile('/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py', wdir='/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples')
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py", line 165, in <module>
+    es.train(n_steps=200, n_proc=1)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 329, in train
+    self._master()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 236, in _master
+    policy, optimizer = self._get_policy()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 497, in _get_policy
+    self.idx = np.random.choice(
+  File "mtrand.pyx", line 935, in numpy.random.mtrand.RandomState.choice

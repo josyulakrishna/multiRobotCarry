@@ -1,0 +1,26 @@
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_164120-37nocnre/logs/debug.log
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_164120-37nocnre/logs/debug-internal.log
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_init.py:_jupyter_setup():321] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f8ed65a3640>
+2022-11-12 16:41:20,302 INFO    MainThread:55986 [wandb_init.py:init():404] calling init triggers
+2022-11-12 16:41:20,303 INFO    MainThread:55986 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {'env_name': 'MultiRobotCarry', 'has_continuous_action_space': True, 'max_ep_len': 1000, 'max_training_timesteps': 3000000, 'print_freq': 10000, 'log_freq': 2000, 'save_model_freq': 100000, 'action_std': 0.6, 'action_std_decay_rate': 0.05, 'min_action_std': 0.1, 'action_std_decay_freq': 250000, 'update_timestep': 1000, 'K_epochs': 80, 'eps_clip': 0.2, 'gamma': 0.99, 'lr_actor': 0.0003, 'lr_critic': 0.001, 'random_seed': 42}
+2022-11-12 16:41:20,303 INFO    MainThread:55986 [wandb_init.py:init():460] starting backend
+2022-11-12 16:41:20,303 INFO    MainThread:55986 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-12 16:41:20,309 INFO    MainThread:55986 [backend.py:ensure_launched():216] starting backend process...
+2022-11-12 16:41:20,314 INFO    MainThread:55986 [backend.py:ensure_launched():221] started backend process with pid: 56045
+2022-11-12 16:41:20,315 INFO    MainThread:55986 [wandb_init.py:init():469] backend started and connected
+2022-11-12 16:41:20,493 INFO    MainThread:55986 [wandb_run.py:_label_probe_notebook():911] probe notebook
+2022-11-12 16:41:20,494 INFO    MainThread:55986 [wandb_run.py:_label_probe_notebook():921] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-11-12 16:41:20,494 INFO    MainThread:55986 [wandb_init.py:init():533] updated telemetry
+2022-11-12 16:41:20,507 INFO    MainThread:55986 [wandb_init.py:init():563] communicating current version
+2022-11-12 16:41:21,088 INFO    MainThread:55986 [wandb_init.py:init():568] got version response upgrade_message: "wandb version 0.13.5 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-11-12 16:41:21,088 INFO    MainThread:55986 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-11-12 16:41:21,210 INFO    MainThread:55986 [wandb_init.py:init():606] starting run threads in backend
+2022-11-12 16:41:26,214 INFO    MainThread:55986 [wandb_run.py:_console_start():1810] atexit reg
+2022-11-12 16:41:26,214 INFO    MainThread:55986 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.WRAP
+2022-11-12 16:41:26,215 INFO    MainThread:55986 [wandb_run.py:_redirect():1721] Wrapping output streams.
+2022-11-12 16:41:26,215 INFO    MainThread:55986 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-11-12 16:41:26,215 INFO    MainThread:55986 [wandb_init.py:init():633] run started, returning control to user process

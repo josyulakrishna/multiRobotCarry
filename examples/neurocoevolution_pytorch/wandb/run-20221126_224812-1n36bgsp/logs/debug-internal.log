@@ -1,0 +1,896 @@
+2022-11-26 22:48:13,663 INFO    MainThread:26844 [internal.py:wandb_internal():87] W&B internal server running at pid: 26844, started at: 2022-11-26 22:48:13.663126
+2022-11-26 22:48:13,666 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: check_version
+2022-11-26 22:48:13,666 INFO    WriterThread:26844 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/run-1n36bgsp.wandb
+2022-11-26 22:48:13,668 DEBUG   SenderThread:26844 [sender.py:send():234] send: header
+2022-11-26 22:48:13,668 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: check_version
+2022-11-26 22:48:13,731 DEBUG   SenderThread:26844 [sender.py:send():234] send: run
+2022-11-26 22:48:13,896 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: run_start
+2022-11-26 22:48:13,898 INFO    SenderThread:26844 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files
+2022-11-26 22:48:13,899 INFO    SenderThread:26844 [sender.py:_start_run_threads():804] run started: 1n36bgsp with start time 1669531692
+2022-11-26 22:48:13,899 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 22:48:13,900 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 22:48:14,901 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 22:48:15,570 DEBUG   HandlerThread:26844 [meta.py:__init__():40] meta init
+2022-11-26 22:48:15,570 DEBUG   HandlerThread:26844 [meta.py:__init__():54] meta init done
+2022-11-26 22:48:15,570 DEBUG   HandlerThread:26844 [meta.py:probe():214] probe
+2022-11-26 22:48:15,576 DEBUG   HandlerThread:26844 [meta.py:_setup_git():204] setup git
+2022-11-26 22:48:15,591 DEBUG   HandlerThread:26844 [meta.py:_setup_git():211] setup git done
+2022-11-26 22:48:15,591 DEBUG   HandlerThread:26844 [meta.py:_save_pip():58] save pip
+2022-11-26 22:48:15,593 DEBUG   HandlerThread:26844 [meta.py:_save_pip():72] save pip done
+2022-11-26 22:48:15,593 DEBUG   HandlerThread:26844 [meta.py:_save_conda():79] save conda
+2022-11-26 22:48:15,897 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/conda-environment.yaml
+2022-11-26 22:48:15,898 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/requirements.txt
+2022-11-26 22:48:19,899 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:21,899 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/conda-environment.yaml
+2022-11-26 22:48:21,958 DEBUG   HandlerThread:26844 [meta.py:_save_conda():89] save conda done
+2022-11-26 22:48:21,958 DEBUG   HandlerThread:26844 [meta.py:probe():252] probe done
+2022-11-26 22:48:21,962 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:48:21,963 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:48:22,068 DEBUG   SenderThread:26844 [sender.py:send():234] send: files
+2022-11-26 22:48:22,068 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-26 22:48:22,900 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-metadata.json
+2022-11-26 22:48:22,940 INFO    Thread-16 :26844 [upload_job.py:push():137] Uploaded file /tmp/tmpyufm_byrwandb/2rubx17f-wandb-metadata.json
+2022-11-26 22:48:27,902 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:29,903 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:31,904 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:35,906 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:37,086 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:48:37,087 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:48:37,906 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:39,907 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:43,867 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:48:43,909 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:45,910 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:49,912 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:51,913 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:52,196 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:48:52,197 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:48:53,913 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:55,914 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:57,915 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:48:59,916 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:03,917 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:05,918 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:07,305 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:49:07,305 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:49:09,920 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:13,921 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:14,150 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:49:15,922 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:17,923 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:21,925 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:22,428 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:49:22,428 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:49:23,926 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:27,928 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:31,930 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:33,930 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:35,931 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:37,932 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:37,933 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:49:37,933 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:49:41,935 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:43,935 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:44,451 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:49:47,937 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:49,938 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:53,045 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:49:53,046 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:49:53,940 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:55,941 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:49:59,943 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:50:08,226 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:50:08,226 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:50:14,748 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:50:23,350 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:50:23,351 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:50:38,457 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:50:38,457 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:50:44,986 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:50:53,566 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:50:53,566 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:51:08,676 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:51:08,676 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:51:15,263 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:51:23,780 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:51:23,781 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:51:37,988 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:38,915 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:51:38,916 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:51:39,988 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:43,990 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:44,536 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 22:51:44,537 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 22:51:44,537 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 22:51:44,990 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 22:51:45,523 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:51:45,991 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:53,993 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:54,028 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:51:54,028 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:51:55,994 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:51:57,995 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:01,997 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:03,998 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:07,999 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:09,141 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:52:09,142 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:52:10,000 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:14,002 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:15,798 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:52:18,004 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:20,005 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:24,007 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:24,252 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:52:24,252 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:52:26,008 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:30,009 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:32,010 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:36,013 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:38,013 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:39,357 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:52:39,358 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:52:42,015 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:44,016 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:46,018 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:46,108 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:52:48,018 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:50,019 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:54,021 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:52:54,474 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:52:54,475 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:52:56,022 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:00,024 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:04,025 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:06,026 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:09,580 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:53:09,581 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:53:10,028 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:14,030 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:16,399 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:53:18,032 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:20,032 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:22,033 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:24,034 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:24,801 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:53:24,802 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:53:28,036 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:30,037 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:34,039 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:36,040 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:38,041 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:39,908 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:53:39,908 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:53:40,042 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:42,043 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:44,044 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:46,707 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:53:48,045 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:49,467 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 22:53:49,468 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 22:53:49,468 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 22:53:50,046 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 22:53:55,012 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:53:55,012 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:53:56,049 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:53:58,049 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:00,050 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:02,051 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:04,052 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:08,054 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:10,135 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:54:10,135 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:54:12,056 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:16,058 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:17,057 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:54:20,060 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:22,061 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:25,247 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:54:25,248 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:54:26,063 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:30,065 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:34,066 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:36,067 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:40,069 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:40,563 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:54:40,563 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:54:44,071 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:46,072 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:47,384 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:54:50,074 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:52,075 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:55,711 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:54:55,711 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:54:56,077 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:54:58,078 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:02,080 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:04,081 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:08,083 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:10,886 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:55:10,887 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:55:12,084 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:16,086 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:17,734 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:55:18,087 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:20,088 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:23,089 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:26,035 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:55:26,036 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:55:27,091 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:31,093 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:33,094 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:37,096 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:39,097 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:41,098 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:41,145 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:55:41,145 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:55:43,099 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:47,100 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:48,062 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:55:49,102 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:51,103 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:54,104 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:55,104 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:55:56,268 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:55:56,268 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:55:57,105 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:01,107 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:01,877 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 22:56:01,878 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 22:56:01,878 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 22:56:02,107 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 22:56:09,110 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:10,110 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:11,503 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:56:11,503 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:56:13,112 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:15,113 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:17,113 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:18,114 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:18,356 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:56:21,115 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:23,116 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:25,117 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:26,623 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:56:26,623 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:56:27,118 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:31,123 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:35,124 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:39,126 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:41,733 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:56:41,734 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:56:43,128 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:45,129 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:48,666 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:56:49,131 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:51,132 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:53,133 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:55,134 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:56:56,849 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:56:56,849 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:56:59,135 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:01,136 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:05,138 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:07,139 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:11,141 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:11,961 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:57:11,961 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:57:13,141 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:15,142 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:18,959 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:57:19,144 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:23,146 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:27,148 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:27,280 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:57:27,280 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:57:31,149 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:33,150 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:37,152 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:39,153 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:42,401 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:57:42,401 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:57:43,155 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:47,156 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:49,158 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:49,269 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:57:51,158 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:55,160 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:57,161 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:57:57,512 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:57:57,512 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:58:01,163 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:04,164 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:05,165 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:07,165 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:09,166 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:10,977 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 22:58:10,978 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 22:58:10,978 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 22:58:11,167 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 22:58:12,638 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:58:12,638 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:58:17,169 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:18,170 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:19,170 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:19,536 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:58:23,172 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:25,173 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:26,174 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:27,894 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:58:27,895 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:58:29,175 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:33,181 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:37,183 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:39,184 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:43,019 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:58:43,019 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:58:43,186 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:47,188 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:49,189 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:49,847 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:58:53,191 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:55,192 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:58:58,156 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:58:58,157 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:58:59,194 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:01,195 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:05,197 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:07,198 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:09,199 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:13,201 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:13,282 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:59:13,283 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:59:15,202 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:17,203 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:19,204 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:20,171 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:59:21,205 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:25,206 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:28,392 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:59:28,393 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:59:29,208 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:31,209 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:35,211 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:39,213 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:41,214 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:43,658 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:59:43,658 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:59:45,216 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:49,217 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:50,481 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 22:59:51,218 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:53,219 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:55,220 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:57,221 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 22:59:58,776 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 22:59:58,776 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 22:59:59,222 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:03,224 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:05,225 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:08,227 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:09,227 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:11,228 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:13,229 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:13,966 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:00:13,966 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:00:15,355 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 23:00:15,356 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 23:00:15,356 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 23:00:16,230 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 23:00:20,761 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:00:21,232 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:22,233 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:25,234 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:27,235 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:29,168 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:00:29,168 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:00:30,236 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:31,237 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:33,238 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:37,240 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:41,241 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:44,418 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:00:44,419 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:00:45,243 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:47,244 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:51,081 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:00:51,246 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:53,247 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:57,249 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:59,249 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:00:59,527 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:00:59,528 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:01:03,252 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:05,253 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:09,254 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:11,255 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:13,256 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:14,637 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:01:14,637 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:01:17,258 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:19,259 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:21,410 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:01:23,261 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:25,262 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:29,745 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:01:29,745 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:01:30,264 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:34,266 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:36,267 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:40,269 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:44,270 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:44,862 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:01:44,863 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:01:48,272 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:50,273 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:51,702 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:01:52,274 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:54,275 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:56,276 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:01:59,970 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:01:59,970 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:02:00,278 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:02,279 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:04,280 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:06,281 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:10,283 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:12,284 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:14,286 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:15,169 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:02:15,169 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:02:18,288 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:20,289 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:22,028 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:02:22,193 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 23:02:22,193 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 23:02:22,194 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 23:02:22,290 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 23:02:28,292 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:30,278 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:02:30,278 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:02:30,293 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:32,294 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:36,296 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:38,297 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:40,298 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:42,299 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:44,300 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:45,490 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:02:45,490 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:02:48,301 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:52,304 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:52,324 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:02:54,305 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:56,306 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:02:58,307 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:00,637 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:03:00,637 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:03:02,309 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:06,310 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:08,312 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:12,313 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:14,314 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:16,315 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:16,361 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:03:16,361 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:03:20,317 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:22,318 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:22,663 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:03:24,319 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:28,321 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:30,322 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:31,629 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:03:31,629 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:03:34,324 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:36,325 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:40,327 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:44,328 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:46,760 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:03:46,760 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:03:48,330 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:50,331 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:52,977 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:03:54,333 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:03:58,334 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:00,335 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:01,886 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:04:01,886 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:04:04,337 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:06,338 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:08,339 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:12,341 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:14,341 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:16,342 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:17,013 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:04:17,013 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:04:18,344 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:22,345 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:23,265 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:04:24,346 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:26,469 DEBUG   SenderThread:26844 [sender.py:send():234] send: history
+2022-11-26 23:04:26,469 DEBUG   SenderThread:26844 [sender.py:send():234] send: summary
+2022-11-26 23:04:26,470 INFO    SenderThread:26844 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-26 23:04:27,348 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/wandb-summary.json
+2022-11-26 23:04:32,133 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:04:32,133 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:04:32,351 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:34,352 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:38,354 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:40,355 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:44,357 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:47,296 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:04:47,296 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:04:48,358 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:52,360 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:53,575 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:04:54,361 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:04:58,363 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:02,365 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:02,578 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:05:02,578 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:05:04,366 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:08,368 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:10,369 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:14,371 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:16,372 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:17,750 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:05:17,750 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:05:20,374 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:22,375 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:23,885 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:05:24,376 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:28,378 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:30,379 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:33,044 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:05:33,045 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:05:34,381 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:36,382 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:40,383 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:44,385 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:48,253 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:05:48,254 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:05:48,387 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:52,389 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:54,200 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:05:54,389 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:05:58,391 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:02,393 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:03,366 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:06:03,367 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:06:04,394 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:08,396 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:10,396 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:12,397 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:16,400 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:18,401 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:18,834 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:06:18,834 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:06:20,402 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log
+2022-11-26 23:06:24,505 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:06:33,956 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:06:33,957 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:06:49,056 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:06:49,057 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:06:54,753 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:07:04,182 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:07:04,183 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:07:19,294 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:07:19,294 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:07:24,965 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:07:34,406 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:07:34,406 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:07:49,514 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:07:49,515 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:07:55,177 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:08:04,632 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:08:04,632 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:08:19,746 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:08:19,746 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:08:25,404 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:08:34,897 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:08:34,898 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:08:50,005 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:08:50,005 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:08:55,619 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:09:05,118 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:09:05,118 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:09:20,243 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:09:20,244 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:09:25,940 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:09:35,383 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:09:35,384 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:09:50,692 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:09:50,693 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:09:56,247 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:10:05,900 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:10:05,901 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:10:21,095 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:10:21,096 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:10:26,554 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:10:36,253 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:10:36,254 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:10:51,575 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:10:51,575 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:10:56,875 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:11:06,707 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:11:06,708 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:11:21,855 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:11:21,856 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:11:27,192 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:11:36,984 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:11:36,985 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:11:52,141 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:11:52,142 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:11:57,531 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:12:07,265 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:12:07,266 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:12:22,400 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:12:22,400 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:12:27,841 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:12:37,529 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:12:37,529 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:12:52,658 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:12:52,659 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:12:58,153 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:13:07,791 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:13:07,792 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:13:23,144 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:13:23,145 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:13:28,490 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:13:38,405 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:13:38,406 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:13:53,538 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:13:53,539 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:13:58,838 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:14:08,661 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:14:08,661 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:14:23,833 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:14:23,834 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:14:29,130 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:14:38,958 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:14:38,959 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:14:54,449 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:14:54,450 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:14:59,432 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:15:09,848 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:15:09,848 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:15:25,041 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:15:25,042 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:15:29,746 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:15:40,489 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:15:40,490 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:15:55,679 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:15:55,680 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:16:00,041 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:16:10,807 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:16:10,807 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:16:25,908 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:16:25,909 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:16:30,364 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:16:41,043 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:16:41,044 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:16:56,283 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:16:56,284 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:17:00,658 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:17:11,387 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:17:11,388 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:17:26,499 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:17:26,500 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:17:30,930 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:17:41,628 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:17:41,628 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:17:56,736 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:17:56,737 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:18:01,229 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:18:11,860 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:18:11,861 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:18:26,995 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:18:26,995 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:18:31,486 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:18:42,253 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:18:42,253 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:18:57,357 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:18:57,358 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:19:01,745 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:19:12,460 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:19:12,461 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:19:27,680 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:19:27,680 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:19:32,016 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:19:42,787 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:19:42,788 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:19:57,900 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:19:57,900 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:20:02,278 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:20:13,117 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:20:13,117 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:20:28,290 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:20:28,291 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:20:32,561 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:20:43,424 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:20:43,425 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:20:58,590 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:20:58,591 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:21:02,842 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:21:13,709 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:21:13,710 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:21:28,819 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:21:28,819 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:21:33,132 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:21:43,927 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:21:43,927 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:21:59,125 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:21:59,125 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:22:03,434 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:22:14,236 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:22:14,236 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:22:29,343 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:22:29,344 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:22:33,784 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:22:44,461 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:22:44,461 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:22:59,755 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:22:59,756 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:23:04,055 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:23:14,860 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:23:14,860 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:23:29,971 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:23:29,972 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:23:34,347 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:23:45,152 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:23:45,152 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:24:00,262 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:24:00,263 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:24:04,617 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:24:15,368 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:24:15,369 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:24:30,552 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:24:30,553 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:24:34,889 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:24:45,682 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:24:45,682 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:25:00,783 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:25:00,783 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:25:05,155 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:25:15,895 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:25:15,896 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:25:31,080 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:25:31,081 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:25:35,449 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:25:46,211 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:25:46,212 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:26:01,339 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:26:01,339 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:26:05,745 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:26:16,465 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:26:16,466 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:26:31,598 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:26:31,599 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:26:36,056 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:26:46,735 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:26:46,736 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:27:01,912 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:27:01,912 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:27:06,364 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:27:17,024 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:27:17,025 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:27:32,130 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:27:32,131 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:27:36,648 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:27:47,238 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:27:47,239 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:28:02,796 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:28:02,796 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:28:06,916 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:28:17,900 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:28:17,900 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:28:33,010 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:28:33,011 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:28:38,180 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:28:53,011 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:28:53,011 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:29:07,424 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:29:08,595 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:29:08,596 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:29:23,698 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:29:23,698 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:29:37,656 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:29:38,804 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:29:38,805 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:29:53,923 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:29:53,923 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:30:07,979 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:30:09,051 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:30:09,051 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:30:24,177 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:30:24,178 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:30:38,309 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:30:39,295 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:30:39,295 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:30:54,411 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:30:54,411 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:31:08,664 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:31:09,633 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:31:09,634 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:31:24,763 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:31:24,763 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:31:38,958 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:31:40,021 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:31:40,022 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:31:55,141 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:31:55,142 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:32:09,247 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:32:10,272 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:32:10,272 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:32:25,615 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:32:25,616 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:32:39,503 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:32:40,726 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:32:40,726 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:32:55,851 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:32:55,851 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:33:09,757 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:33:10,997 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:33:10,997 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:33:26,109 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:33:26,110 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:33:40,015 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:33:41,296 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:33:41,296 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:33:56,462 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:33:56,463 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:34:10,306 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:34:11,639 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:34:11,640 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:34:26,775 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:34:26,776 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:34:40,623 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:34:41,890 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:34:41,891 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:34:57,001 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:34:57,002 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:35:10,880 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:35:12,170 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:35:12,170 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:35:27,311 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:35:27,311 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:35:41,202 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:35:42,444 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:35:42,444 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:35:57,570 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:35:57,570 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:36:11,499 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:36:12,924 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:36:12,924 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:36:28,033 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:36:28,033 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:36:41,783 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:36:43,139 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:36:43,139 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:36:58,244 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:36:58,245 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:37:12,023 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:37:13,350 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:37:13,350 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:37:28,631 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:37:28,631 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:37:42,320 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:37:43,742 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:37:43,742 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:37:58,872 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:37:58,872 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:38:12,639 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:38:14,077 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:38:14,077 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:38:29,202 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:38:29,203 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:38:42,917 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:38:44,362 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:38:44,362 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:38:59,568 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:38:59,569 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:39:13,203 DEBUG   SenderThread:26844 [sender.py:send():234] send: stats
+2022-11-26 23:39:14,748 DEBUG   HandlerThread:26844 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-26 23:39:14,748 DEBUG   SenderThread:26844 [sender.py:send_request():248] send_request: stop_status
+2022-11-26 23:39:27,932 WARNING MainThread:26844 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-11-26 23:39:28,533 INFO    Thread-13 :26844 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221126_224812-1n36bgsp/files/output.log

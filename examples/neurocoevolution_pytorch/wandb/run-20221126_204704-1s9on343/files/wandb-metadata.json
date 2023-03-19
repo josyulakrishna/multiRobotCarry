@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.11.0-46-generic-x86_64-with-glibc2.31",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-11-27T04:47:06.563295",
+    "startedAt": "2022-11-27T04:47:04.956617",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/main.py",
+    "codePath": "examples/neurocoevolution_pytorch/main.py",
+    "git": {
+        "remote": "https://github.com/josyulakrishna/gym_envs_urdf.git",
+        "commit": "925e09d610c8124abb1fc88d4247cc5501b38b6c"
+    },
+    "email": "josyula008@gmail.com",
+    "root": "/home/josyula/Programs/MAS_Project/gym_envs_urdf",
+    "host": "naga",
+    "username": "josyula",
+    "executable": "/home/josyula/miniconda3/bin/python"
+}

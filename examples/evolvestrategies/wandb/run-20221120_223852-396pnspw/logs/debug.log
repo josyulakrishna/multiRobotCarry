@@ -1,0 +1,26 @@
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_223852-396pnspw/logs/debug.log
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/evolvestrategies/wandb/run-20221120_223852-396pnspw/logs/debug-internal.log
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_init.py:_jupyter_setup():321] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f58983a88e0>
+2022-11-20 22:38:52,170 INFO    MainThread:26875 [wandb_init.py:init():404] calling init triggers
+2022-11-20 22:38:52,171 INFO    MainThread:26875 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-20 22:38:52,171 INFO    MainThread:26875 [wandb_init.py:init():460] starting backend
+2022-11-20 22:38:52,171 INFO    MainThread:26875 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-20 22:38:52,178 INFO    MainThread:26875 [backend.py:ensure_launched():216] starting backend process...
+2022-11-20 22:38:52,183 INFO    MainThread:26875 [backend.py:ensure_launched():221] started backend process with pid: 26938
+2022-11-20 22:38:52,183 INFO    MainThread:26875 [wandb_init.py:init():469] backend started and connected
+2022-11-20 22:38:52,212 INFO    MainThread:26875 [wandb_run.py:_label_probe_notebook():911] probe notebook
+2022-11-20 22:38:52,213 INFO    MainThread:26875 [wandb_run.py:_label_probe_notebook():921] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-11-20 22:38:52,213 INFO    MainThread:26875 [wandb_init.py:init():533] updated telemetry
+2022-11-20 22:38:52,227 INFO    MainThread:26875 [wandb_init.py:init():563] communicating current version
+2022-11-20 22:38:52,890 INFO    MainThread:26875 [wandb_init.py:init():568] got version response upgrade_message: "wandb version 0.13.5 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-11-20 22:38:52,890 INFO    MainThread:26875 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-11-20 22:38:53,176 INFO    MainThread:26875 [wandb_init.py:init():606] starting run threads in backend
+2022-11-20 22:38:58,180 INFO    MainThread:26875 [wandb_run.py:_console_start():1810] atexit reg
+2022-11-20 22:38:58,181 INFO    MainThread:26875 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.WRAP
+2022-11-20 22:38:58,181 INFO    MainThread:26875 [wandb_run.py:_redirect():1721] Wrapping output streams.
+2022-11-20 22:38:58,182 INFO    MainThread:26875 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-11-20 22:38:58,182 INFO    MainThread:26875 [wandb_init.py:init():633] run started, returning control to user process

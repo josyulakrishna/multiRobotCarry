@@ -1,0 +1,27 @@
+2022-11-12 16:07:14,815 INFO    MainThread:49723 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-12 16:07:14,815 INFO    MainThread:49723 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-12 16:07:14,815 INFO    MainThread:49723 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_160714-ffip8j3c/logs/debug.log
+2022-11-12 16:07:14,816 INFO    MainThread:49723 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_160714-ffip8j3c/logs/debug-internal.log
+2022-11-12 16:07:14,816 INFO    MainThread:49723 [wandb_init.py:init():404] calling init triggers
+2022-11-12 16:07:14,816 INFO    MainThread:49723 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-12 16:07:14,816 INFO    MainThread:49723 [wandb_init.py:init():460] starting backend
+2022-11-12 16:07:14,816 INFO    MainThread:49723 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-12 16:07:14,910 INFO    MainThread:49723 [backend.py:ensure_launched():216] starting backend process...
+2022-11-12 16:07:14,918 INFO    MainThread:49723 [backend.py:ensure_launched():221] started backend process with pid: 49764
+2022-11-12 16:07:14,921 INFO    MainThread:49723 [wandb_init.py:init():469] backend started and connected
+2022-11-12 16:07:14,955 ERROR   MainThread:49723 [wandb_init.py:init():958] error
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 931, in init
+    run = wi.init()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 475, in init
+    run = Run(config=config, settings=s, sweep_config=sweep_config)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 313, in __init__
+    self._config = wandb_config.Config()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 100, in __init__
+    self._load_defaults()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 210, in _load_defaults
+    conf_dict = config_util.dict_from_config_file("config-defaults.yaml")
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/config_util.py", line 122, in dict_from_config_file
+    data[k] = v["value"]
+TypeError: string indices must be integers

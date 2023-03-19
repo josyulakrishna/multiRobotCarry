@@ -1,0 +1,20 @@
+env:
+  name: urdf-env-v1
+  max_step: None
+  pomdp: False
+
+network:
+  name: gym_model
+  num_state: 28
+  num_action: 4
+  discrete_action: False
+  gru: False
+
+strategy:
+  name : openai_es
+  init_sigma: 0.2
+  sigma_decay: 0.99999
+  learning_rate: 0.1
+  offspring_num: 240
+
+pomdp: False

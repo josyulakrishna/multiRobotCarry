@@ -1,0 +1,142 @@
+2022-11-20 21:14:28,998 INFO    MainThread:16766 [internal.py:wandb_internal():87] W&B internal server running at pid: 16766, started at: 2022-11-20 21:14:28.998622
+2022-11-20 21:14:29,002 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: check_version
+2022-11-20 21:14:29,002 INFO    WriterThread:16766 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/run-11znz5h8.wandb
+2022-11-20 21:14:29,004 DEBUG   SenderThread:16766 [sender.py:send():234] send: header
+2022-11-20 21:14:29,004 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: check_version
+2022-11-20 21:14:29,072 DEBUG   SenderThread:16766 [sender.py:send():234] send: run
+2022-11-20 21:14:29,220 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: run_start
+2022-11-20 21:14:29,222 INFO    SenderThread:16766 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files
+2022-11-20 21:14:29,222 INFO    SenderThread:16766 [sender.py:_start_run_threads():804] run started: 11znz5h8 with start time 1669007667
+2022-11-20 21:14:29,222 DEBUG   SenderThread:16766 [sender.py:send():234] send: summary
+2022-11-20 21:14:29,222 INFO    SenderThread:16766 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:14:30,228 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-summary.json
+2022-11-20 21:14:30,840 DEBUG   HandlerThread:16766 [meta.py:__init__():40] meta init
+2022-11-20 21:14:30,840 DEBUG   HandlerThread:16766 [meta.py:__init__():54] meta init done
+2022-11-20 21:14:30,840 DEBUG   HandlerThread:16766 [meta.py:probe():214] probe
+2022-11-20 21:14:30,846 DEBUG   HandlerThread:16766 [meta.py:_setup_git():204] setup git
+2022-11-20 21:14:30,866 DEBUG   HandlerThread:16766 [meta.py:_setup_git():211] setup git done
+2022-11-20 21:14:30,866 DEBUG   HandlerThread:16766 [meta.py:_save_pip():58] save pip
+2022-11-20 21:14:30,867 DEBUG   HandlerThread:16766 [meta.py:_save_pip():72] save pip done
+2022-11-20 21:14:30,867 DEBUG   HandlerThread:16766 [meta.py:_save_conda():79] save conda
+2022-11-20 21:14:31,227 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/requirements.txt
+2022-11-20 21:14:31,228 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/conda-environment.yaml
+2022-11-20 21:14:34,228 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/output.log
+2022-11-20 21:14:36,846 DEBUG   HandlerThread:16766 [meta.py:_save_conda():89] save conda done
+2022-11-20 21:14:36,847 DEBUG   HandlerThread:16766 [meta.py:probe():252] probe done
+2022-11-20 21:14:36,850 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-20 21:14:36,851 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: stop_status
+2022-11-20 21:14:36,950 DEBUG   SenderThread:16766 [sender.py:send():234] send: files
+2022-11-20 21:14:36,951 INFO    SenderThread:16766 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-20 21:14:37,229 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/output.log
+2022-11-20 21:14:37,230 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/conda-environment.yaml
+2022-11-20 21:14:37,230 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-metadata.json
+2022-11-20 21:14:37,244 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:37,245 DEBUG   SenderThread:16766 [sender.py:send():234] send: telemetry
+2022-11-20 21:14:37,246 DEBUG   SenderThread:16766 [sender.py:send():234] send: exit
+2022-11-20 21:14:37,246 INFO    SenderThread:16766 [sender.py:send_exit():366] handling exit code: 0
+2022-11-20 21:14:37,246 INFO    SenderThread:16766 [sender.py:send_exit():368] handling runtime: 8
+2022-11-20 21:14:37,247 INFO    SenderThread:16766 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:14:37,247 INFO    SenderThread:16766 [sender.py:send_exit():374] send defer
+2022-11-20 21:14:37,248 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:37,249 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,249 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 0
+2022-11-20 21:14:37,250 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,250 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 0
+2022-11-20 21:14:37,250 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 1
+2022-11-20 21:14:37,251 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,252 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 1
+2022-11-20 21:14:37,335 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,335 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 1
+2022-11-20 21:14:37,335 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 2
+2022-11-20 21:14:37,335 DEBUG   SenderThread:16766 [sender.py:send():234] send: stats
+2022-11-20 21:14:37,336 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,336 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 2
+2022-11-20 21:14:37,336 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,336 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 2
+2022-11-20 21:14:37,336 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 3
+2022-11-20 21:14:37,337 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,337 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 3
+2022-11-20 21:14:37,337 DEBUG   SenderThread:16766 [sender.py:send():234] send: summary
+2022-11-20 21:14:37,337 INFO    SenderThread:16766 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-20 21:14:37,337 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,337 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 3
+2022-11-20 21:14:37,337 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 4
+2022-11-20 21:14:37,338 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,338 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 4
+2022-11-20 21:14:37,338 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,338 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 4
+2022-11-20 21:14:37,353 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:37,502 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 5
+2022-11-20 21:14:37,503 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:37,504 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:37,504 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 5
+2022-11-20 21:14:37,505 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:37,505 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 5
+2022-11-20 21:14:37,505 INFO    SenderThread:16766 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-11-20 21:14:37,515 INFO    Thread-16 :16766 [upload_job.py:push():137] Uploaded file /tmp/tmpbncxhp8ewandb/1xjrv7si-wandb-metadata.json
+2022-11-20 21:14:37,606 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,230 INFO    Thread-13 :16766 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/config.yaml
+2022-11-20 21:14:38,230 INFO    SenderThread:16766 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-summary.json
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/output.log
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():313] scan: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/conda-environment.yaml conda-environment.yaml
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/output.log output.log
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-summary.json wandb-summary.json
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/config.yaml config.yaml
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/requirements.txt requirements.txt
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-metadata.json wandb-metadata.json
+2022-11-20 21:14:38,231 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 6
+2022-11-20 21:14:38,232 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,232 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:38,238 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 6
+2022-11-20 21:14:38,239 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:38,244 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 6
+2022-11-20 21:14:38,244 INFO    SenderThread:16766 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-20 21:14:38,334 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,334 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,435 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,436 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,537 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,537 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,638 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,638 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,684 INFO    Thread-17 :16766 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/conda-environment.yaml
+2022-11-20 21:14:38,685 INFO    Thread-18 :16766 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/output.log
+2022-11-20 21:14:38,685 INFO    Thread-20 :16766 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/config.yaml
+2022-11-20 21:14:38,687 INFO    Thread-21 :16766 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/requirements.txt
+2022-11-20 21:14:38,698 INFO    Thread-19 :16766 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/files/wandb-summary.json
+2022-11-20 21:14:38,740 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,740 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,842 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:38,842 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:38,898 INFO    Thread-12 :16766 [sender.py:transition_state():387] send defer: 7
+2022-11-20 21:14:38,899 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:38,899 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 7
+2022-11-20 21:14:38,899 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:38,900 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 7
+2022-11-20 21:14:38,943 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:39,167 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 8
+2022-11-20 21:14:39,167 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:39,167 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:39,167 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 8
+2022-11-20 21:14:39,167 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:39,168 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 8
+2022-11-20 21:14:39,168 INFO    SenderThread:16766 [sender.py:transition_state():387] send defer: 9
+2022-11-20 21:14:39,168 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: defer
+2022-11-20 21:14:39,168 DEBUG   SenderThread:16766 [sender.py:send():234] send: final
+2022-11-20 21:14:39,168 INFO    HandlerThread:16766 [handler.py:handle_request_defer():147] handle defer: 9
+2022-11-20 21:14:39,168 DEBUG   SenderThread:16766 [sender.py:send():234] send: footer
+2022-11-20 21:14:39,168 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: defer
+2022-11-20 21:14:39,168 INFO    SenderThread:16766 [sender.py:send_request_defer():383] handle sender defer: 9
+2022-11-20 21:14:39,268 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-20 21:14:39,268 DEBUG   SenderThread:16766 [sender.py:send_request():248] send_request: poll_exit
+2022-11-20 21:14:39,269 INFO    SenderThread:16766 [file_pusher.py:join():182] waiting for file pusher
+2022-11-20 21:14:39,490 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: get_summary
+2022-11-20 21:14:39,490 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: sampled_history
+2022-11-20 21:14:39,491 DEBUG   HandlerThread:16766 [handler.py:handle_request():130] handle_request: shutdown
+2022-11-20 21:14:39,491 INFO    HandlerThread:16766 [handler.py:finish():731] shutting down handler
+2022-11-20 21:14:40,168 INFO    WriterThread:16766 [datastore.py:close():281] close: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_211427-11znz5h8/run-11znz5h8.wandb
+2022-11-20 21:14:40,488 INFO    SenderThread:16766 [sender.py:finish():1070] shutting down sender
+2022-11-20 21:14:40,489 INFO    SenderThread:16766 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-20 21:14:40,489 INFO    SenderThread:16766 [file_pusher.py:join():182] waiting for file pusher
+2022-11-20 21:14:40,832 INFO    MainThread:16766 [internal.py:handle_exit():77] Internal process exited

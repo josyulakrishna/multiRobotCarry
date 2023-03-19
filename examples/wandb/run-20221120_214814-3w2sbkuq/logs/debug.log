@@ -1,0 +1,10 @@
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_214814-3w2sbkuq/logs/debug.log
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_214814-3w2sbkuq/logs/debug-internal.log
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_init.py:init():404] calling init triggers
+2022-11-20 21:48:14,002 INFO    MainThread:21485 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-20 21:48:14,003 INFO    MainThread:21485 [wandb_init.py:init():455] wandb.init() called when a run is still active
+2022-11-20 21:48:26,502 INFO    MainThread:21485 [wandb_run.py:_atexit_cleanup():1771] got exitcode: 0
+2022-11-20 21:48:26,503 INFO    MainThread:21485 [wandb_run.py:_restore():1751] restore

@@ -1,0 +1,17 @@
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+lidar_sensor_link_1
+/home/josyula/miniconda3/lib/python3.9/site-packages/urdfenvs/urdf_common/urdf_env.py:255: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+Traceback (most recent call last):
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/multirobot_mappo_run.py", line 232, in <module>
+    env, num_agents, state_size, action_size = load_env(render=False)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/multirobot_mappo_run.py", line 63, in load_env
+    env,ob = make_env(render=render)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/multirobot_mappo_run.py", line 40, in make_env
+    env.add_stuff()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/gym/core.py", line 238, in __getattr__
+    return getattr(self.env, name)
+AttributeError: 'UrdfEnv' object has no attribute 'add_stuff'

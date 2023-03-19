@@ -1,0 +1,27 @@
+2022-11-12 16:04:50,189 INFO    MainThread:49437 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-12 16:04:50,189 INFO    MainThread:49437 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-12 16:04:50,189 INFO    MainThread:49437 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_160450-2nfy297r/logs/debug.log
+2022-11-12 16:04:50,189 INFO    MainThread:49437 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221112_160450-2nfy297r/logs/debug-internal.log
+2022-11-12 16:04:50,190 INFO    MainThread:49437 [wandb_init.py:init():404] calling init triggers
+2022-11-12 16:04:50,190 INFO    MainThread:49437 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {'env_name': 'MultiRobotCarry', 'has_continuous_action_space': True, 'max_ep_len': 10000, 'max_training_timesteps': 'int(3e6)', 'print_freq': 'max_ep_len * 10', 'log_freq': 'max_ep_len * 2', 'save_model_freq': 'int(1e5)', 'action_std': 0.6, 'action_std_decay_rate': 0.05, 'min_action_std': 0.1, 'action_std_decay_freq': 'int(2.5e5)', 'update_timestep': 4, 'K_epochs': 80, 'eps_clip': 0.2, 'gamma': 0.99, 'lr_actor': 0.0003, 'lr_critic': 0.001, 'random_seed': 42}
+2022-11-12 16:04:50,190 INFO    MainThread:49437 [wandb_init.py:init():460] starting backend
+2022-11-12 16:04:50,190 INFO    MainThread:49437 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-12 16:04:50,281 INFO    MainThread:49437 [backend.py:ensure_launched():216] starting backend process...
+2022-11-12 16:04:50,291 INFO    MainThread:49437 [backend.py:ensure_launched():221] started backend process with pid: 49482
+2022-11-12 16:04:50,294 INFO    MainThread:49437 [wandb_init.py:init():469] backend started and connected
+2022-11-12 16:04:50,332 ERROR   MainThread:49437 [wandb_init.py:init():958] error
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 931, in init
+    run = wi.init()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 475, in init
+    run = Run(config=config, settings=s, sweep_config=sweep_config)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 313, in __init__
+    self._config = wandb_config.Config()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 100, in __init__
+    self._load_defaults()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_config.py", line 210, in _load_defaults
+    conf_dict = config_util.dict_from_config_file("config-defaults.yaml")
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/config_util.py", line 122, in dict_from_config_file
+    data[k] = v["value"]
+TypeError: string indices must be integers

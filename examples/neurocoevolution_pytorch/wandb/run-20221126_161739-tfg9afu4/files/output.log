@@ -1,0 +1,23 @@
+
+Hello world from worker
+{'generation': 0, 'prev_gen_fit_1': -119.00000000000004, 'mut_gen_fit_1': 1113.6666666666667, 'prev_gen_fit_2': -109.73333333333335, 'mut_gen_fit_2': 1113.6666666666667, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+/home/josyula/miniconda3/lib/python3.9/site-packages/numpy/core/fromnumeric.py:3432: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/josyula/miniconda3/lib/python3.9/site-packages/numpy/core/_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+{'generation': 1, 'prev_gen_fit_1': 1114.2, 'mut_gen_fit_1': -78.76666666666665, 'prev_gen_fit_2': 1114.2, 'mut_gen_fit_2': -108.9333333333333, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 2, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 3, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 4, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 5, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 6, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 7, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 8, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 9, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 10, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 11, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 12, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 13, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 14, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': 3463.0, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 15, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': -20.200000000000017, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 16, 'prev_gen_fit_1': 1115.7666666666667, 'mut_gen_fit_1': -78.63333333333331, 'prev_gen_fit_2': 1115.7666666666667, 'mut_gen_fit_2': -109.33333333333329, 'team_player1and2hofg': -114.49999999999996, 'goal_reaches': 0, 'wall_pass': 0}

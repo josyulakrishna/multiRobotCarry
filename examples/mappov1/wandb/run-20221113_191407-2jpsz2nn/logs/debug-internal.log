@@ -1,0 +1,80 @@
+2022-11-13 19:14:08,052 INFO    MainThread:26192 [internal.py:wandb_internal():87] W&B internal server running at pid: 26192, started at: 2022-11-13 19:14:08.051854
+2022-11-13 19:14:08,053 DEBUG   HandlerThread:26192 [handler.py:handle_request():130] handle_request: check_version
+2022-11-13 19:14:08,053 INFO    WriterThread:26192 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/run-2jpsz2nn.wandb
+2022-11-13 19:14:08,054 DEBUG   SenderThread:26192 [sender.py:send():234] send: header
+2022-11-13 19:14:08,054 DEBUG   SenderThread:26192 [sender.py:send_request():248] send_request: check_version
+2022-11-13 19:14:11,071 DEBUG   SenderThread:26192 [sender.py:send():234] send: run
+2022-11-13 19:14:12,384 DEBUG   HandlerThread:26192 [handler.py:handle_request():130] handle_request: run_start
+2022-11-13 19:14:12,386 INFO    SenderThread:26192 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files
+2022-11-13 19:14:12,386 INFO    SenderThread:26192 [sender.py:_start_run_threads():804] run started: 2jpsz2nn with start time 1668395647
+2022-11-13 19:14:12,386 DEBUG   SenderThread:26192 [sender.py:send():234] send: summary
+2022-11-13 19:14:12,386 INFO    SenderThread:26192 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-13 19:14:13,186 DEBUG   HandlerThread:26192 [meta.py:__init__():40] meta init
+2022-11-13 19:14:13,186 DEBUG   HandlerThread:26192 [meta.py:__init__():54] meta init done
+2022-11-13 19:14:13,186 DEBUG   HandlerThread:26192 [meta.py:probe():214] probe
+2022-11-13 19:14:13,192 DEBUG   HandlerThread:26192 [meta.py:_setup_git():204] setup git
+2022-11-13 19:14:13,207 DEBUG   HandlerThread:26192 [meta.py:_setup_git():211] setup git done
+2022-11-13 19:14:13,207 DEBUG   HandlerThread:26192 [meta.py:_save_pip():58] save pip
+2022-11-13 19:14:13,208 DEBUG   HandlerThread:26192 [meta.py:_save_pip():72] save pip done
+2022-11-13 19:14:13,208 DEBUG   HandlerThread:26192 [meta.py:_save_conda():79] save conda
+2022-11-13 19:14:13,387 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/requirements.txt
+2022-11-13 19:14:13,388 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/conda-environment.yaml
+2022-11-13 19:14:13,388 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-summary.json
+2022-11-13 19:14:17,389 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:19,783 DEBUG   HandlerThread:26192 [meta.py:_save_conda():89] save conda done
+2022-11-13 19:14:19,783 DEBUG   HandlerThread:26192 [meta.py:probe():252] probe done
+2022-11-13 19:14:19,788 DEBUG   HandlerThread:26192 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-13 19:14:19,788 DEBUG   SenderThread:26192 [sender.py:send_request():248] send_request: stop_status
+2022-11-13 19:14:20,390 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:20,390 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/conda-environment.yaml
+2022-11-13 19:14:20,390 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-metadata.json
+2022-11-13 19:14:20,828 DEBUG   SenderThread:26192 [sender.py:send():234] send: files
+2022-11-13 19:14:20,829 INFO    SenderThread:26192 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-13 19:14:23,740 INFO    Thread-11 :26192 [upload_job.py:push():137] Uploaded file /tmp/tmpyt7ooi36wandb/gzuzej8g-wandb-metadata.json
+2022-11-13 19:14:26,391 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:28,392 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:30,392 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:35,195 DEBUG   SenderThread:26192 [sender.py:send():234] send: history
+2022-11-13 19:14:35,195 DEBUG   SenderThread:26192 [sender.py:send():234] send: summary
+2022-11-13 19:14:35,196 INFO    SenderThread:26192 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-13 19:14:35,393 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-summary.json
+2022-11-13 19:14:35,834 DEBUG   HandlerThread:26192 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-13 19:14:35,834 DEBUG   SenderThread:26192 [sender.py:send_request():248] send_request: stop_status
+2022-11-13 19:14:41,373 DEBUG   SenderThread:26192 [sender.py:send():234] send: stats
+2022-11-13 19:14:42,395 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:46,396 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:48,397 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:50,397 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:52,082 DEBUG   HandlerThread:26192 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-13 19:14:52,082 DEBUG   SenderThread:26192 [sender.py:send_request():248] send_request: stop_status
+2022-11-13 19:14:52,398 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:54,398 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:55,499 DEBUG   SenderThread:26192 [sender.py:send():234] send: history
+2022-11-13 19:14:55,500 DEBUG   SenderThread:26192 [sender.py:send():234] send: summary
+2022-11-13 19:14:55,500 INFO    SenderThread:26192 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-13 19:14:56,399 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:14:56,399 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-summary.json
+2022-11-13 19:14:58,399 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:15:00,400 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:15:04,401 INFO    Thread-8  :26192 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:15:05,148 WARNING MainThread:26192 [internal.py:is_dead():366] Internal process exiting, parent pid 26131 disappeared
+2022-11-13 19:15:05,148 ERROR   MainThread:26192 [internal.py:wandb_internal():142] Internal process shutdown.
+2022-11-13 19:15:05,486 INFO    WriterThread:26192 [datastore.py:close():281] close: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/run-2jpsz2nn.wandb
+2022-11-13 19:15:05,486 INFO    SenderThread:26192 [sender.py:finish():1070] shutting down sender
+2022-11-13 19:15:05,486 INFO    SenderThread:26192 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-11-13 19:15:05,488 INFO    HandlerThread:26192 [handler.py:finish():731] shutting down handler
+2022-11-13 19:15:06,402 INFO    SenderThread:26192 [dir_watcher.py:finish():313] scan: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files
+2022-11-13 19:15:06,403 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/conda-environment.yaml conda-environment.yaml
+2022-11-13 19:15:06,403 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log output.log
+2022-11-13 19:15:06,403 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-summary.json wandb-summary.json
+2022-11-13 19:15:06,403 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/config.yaml config.yaml
+2022-11-13 19:15:06,404 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/requirements.txt requirements.txt
+2022-11-13 19:15:06,404 INFO    SenderThread:26192 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-metadata.json wandb-metadata.json
+2022-11-13 19:15:06,404 INFO    SenderThread:26192 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-13 19:15:06,405 INFO    SenderThread:26192 [file_pusher.py:join():182] waiting for file pusher
+2022-11-13 19:15:09,569 INFO    Thread-14 :26192 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/wandb-summary.json
+2022-11-13 19:15:09,571 INFO    Thread-16 :26192 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/requirements.txt
+2022-11-13 19:15:09,654 INFO    Thread-15 :26192 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/config.yaml
+2022-11-13 19:15:09,877 INFO    Thread-12 :26192 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/conda-environment.yaml
+2022-11-13 19:15:10,178 INFO    Thread-13 :26192 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_191407-2jpsz2nn/files/output.log
+2022-11-13 19:15:10,734 INFO    MainThread:26192 [internal.py:handle_exit():77] Internal process exited

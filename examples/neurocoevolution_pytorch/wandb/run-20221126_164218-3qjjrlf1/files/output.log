@@ -1,0 +1,9 @@
+
+Hello world from worker
+{'generation': 0, 'prev_gen_fit_1': -78.66666666666703, 'mut_gen_fit_1': -114.70000000000037, 'prev_gen_fit_2': -77.40000000000036, 'mut_gen_fit_2': -114.70000000000037, 'team_player1and2hofg': -50.00000000000043, 'goal_reaches': 0, 'wall_pass': 0}
+/home/josyula/miniconda3/lib/python3.9/site-packages/numpy/core/fromnumeric.py:3432: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/josyula/miniconda3/lib/python3.9/site-packages/numpy/core/_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+{'generation': 1, 'prev_gen_fit_1': -50.00000000000044, 'mut_gen_fit_1': -76.66666666666703, 'prev_gen_fit_2': -50.00000000000044, 'mut_gen_fit_2': -79.93333333333372, 'team_player1and2hofg': -50.00000000000043, 'goal_reaches': 0, 'wall_pass': 0}
+{'generation': 2, 'prev_gen_fit_1': -50.00000000000044, 'mut_gen_fit_1': -50.00000000000044, 'prev_gen_fit_2': -50.00000000000044, 'mut_gen_fit_2': -50.00000000000044, 'team_player1and2hofg': -50.00000000000043, 'goal_reaches': 0, 'wall_pass': 0}

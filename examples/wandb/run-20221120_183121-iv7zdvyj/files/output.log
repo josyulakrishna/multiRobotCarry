@@ -1,0 +1,24 @@
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env2.py:366: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/miniconda3/lib/python3.9/site-packages/torch/nn/functional.py:1949: UserWarning: nn.functional.tanh is deprecated. Use torch.tanh instead.
+  warnings.warn("nn.functional.tanh is deprecated. Use torch.tanh instead.")
+/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py:492: RuntimeWarning: invalid value encountered in divide
+  meta_population_probability = total_novelty / np.sum(total_novelty)
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/IPython/core/interactiveshell.py", line 3251, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-203b289ebc1b>", line 1, in <module>
+    runfile('/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py', wdir='/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples')
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/home/josyula/Programs/pycharm-2022.2.3/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/multirobot_carry_nsra.py", line 164, in <module>
+    es.train(n_steps=200, n_proc=1)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 329, in train
+    self._master()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 236, in _master
+    policy, optimizer = self._get_policy()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/estorch/estorch.py", line 493, in _get_policy
+    self.idx = np.random.choice(
+  File "mtrand.pyx", line 935, in numpy.random.mtrand.RandomState.choice

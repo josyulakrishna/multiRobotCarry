@@ -1,0 +1,38 @@
+training environment name : MultiRobotCarry
+current logging run number for MultiRobotCarry :  40
+logging at : PPO_logs/MultiRobotCarry//PPO_MultiRobotCarry_log_40.csv
+save checkpoint path : PPO_preTrained/MultiRobotCarry/PPO_MultiRobotCarry_42_0.pth
+--------------------------------------------------------------------------------------------
+max training timesteps :  3000000
+max timesteps per episode :  1000
+model saving frequency : 100000 timesteps
+log frequency : 2000 timesteps
+printing average reward over episodes in last : 10000 timesteps
+--------------------------------------------------------------------------------------------
+state space dimension :  17
+action space dimension :  2
+--------------------------------------------------------------------------------------------
+Initializing a continuous action space policy
+--------------------------------------------------------------------------------------------
+starting std of action distribution :  0.6
+decay rate of std of action distribution :  0.05
+minimum std of action distribution :  0.1
+decay frequency of std of action distribution : 250000 timesteps
+--------------------------------------------------------------------------------------------
+PPO update frequency : 1000 timesteps
+PPO K epochs :  80
+PPO epsilon clip :  0.2
+discount factor (gamma) :  0.99
+--------------------------------------------------------------------------------------------
+optimizer learning rate actor :  0.0003
+optimizer learning rate critic :  0.001
+--------------------------------------------------------------------------------------------
+setting random seed to  42
+Started training at (GMT) :  2022-11-12 16:52:32
+============================================================================================
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:343: UserWarning: The observation does not fit the defined observation space:
+  warnings.warn(str(err))
+/home/josyula/Programs/MAS_Project/gym_envs_urdf/urdfenvs/urdf_common/urdf_env.py:343: UserWarning: The observation does not fit the defined observation space:
+joint_state
+	Error in velocity
+		velocity[1]: -2.1839985584048143 < -2.175

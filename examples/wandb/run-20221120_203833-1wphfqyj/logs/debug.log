@@ -1,0 +1,49 @@
+2022-11-20 20:38:33,673 INFO    MainThread:10837 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-20 20:38:33,673 INFO    MainThread:10837 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-20 20:38:33,673 INFO    MainThread:10837 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203833-1wphfqyj/logs/debug.log
+2022-11-20 20:38:33,674 INFO    MainThread:10837 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203833-1wphfqyj/logs/debug-internal.log
+2022-11-20 20:38:33,674 INFO    MainThread:10837 [wandb_init.py:init():404] calling init triggers
+2022-11-20 20:38:33,674 INFO    MainThread:10837 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-20 20:38:33,674 INFO    MainThread:10837 [wandb_init.py:init():460] starting backend
+2022-11-20 20:38:33,674 INFO    MainThread:10837 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-11-20 20:38:33,688 INFO    MainThread:10837 [backend.py:ensure_launched():216] starting backend process...
+2022-11-20 20:38:33,691 INFO    MainThread:10837 [backend.py:ensure_launched():221] started backend process with pid: 10880
+2022-11-20 20:38:33,692 INFO    MainThread:10837 [wandb_init.py:init():469] backend started and connected
+2022-11-20 20:38:33,695 INFO    MainThread:10837 [wandb_init.py:init():533] updated telemetry
+2022-11-20 20:38:33,706 INFO    MainThread:10837 [wandb_init.py:init():563] communicating current version
+2022-11-20 20:38:34,755 INFO    MainThread:10837 [wandb_init.py:init():568] got version response upgrade_message: "wandb version 0.13.5 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-11-20 20:38:34,755 INFO    MainThread:10837 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-11-20 20:38:34,929 INFO    MainThread:10837 [wandb_init.py:init():606] starting run threads in backend
+2022-11-20 20:38:39,935 INFO    MainThread:10837 [wandb_run.py:_console_start():1810] atexit reg
+2022-11-20 20:38:39,935 INFO    MainThread:10837 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.REDIRECT
+2022-11-20 20:38:39,936 INFO    MainThread:10837 [wandb_run.py:_redirect():1689] Redirecting console.
+2022-11-20 20:38:39,938 INFO    MainThread:10837 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-11-20 20:38:39,938 INFO    MainThread:10837 [wandb_init.py:init():633] run started, returning control to user process
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203840-2e43sijn/logs/debug.log
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203840-2e43sijn/logs/debug-internal.log
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_init.py:init():404] calling init triggers
+2022-11-20 20:38:40,521 INFO    MainThread:10837 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-20 20:38:40,522 INFO    MainThread:10837 [wandb_init.py:init():455] wandb.init() called when a run is still active
+2022-11-20 20:38:48,003 INFO    MainThread:10837 [wandb_run.py:_atexit_cleanup():1780] got exitcode: 0
+2022-11-20 20:38:48,004 INFO    MainThread:10837 [wandb_run.py:_restore():1752] restore
+2022-11-20 20:38:49,005 INFO    MainThread:10837 [wandb_run.py:_restore():1752] restore
+2022-11-20 20:38:54,011 ERROR   MainThread:10837 [wandb_run.py:_atexit_cleanup():1798] Problem finishing run
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1788, in _atexit_cleanup
+    self._on_finish()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1936, in _on_finish
+    self._console_stop()  # TODO: there's a race here with jupyter console logging
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1828, in _console_stop
+    self._restore()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1756, in _restore
+    self._out_redir.uninstall()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 735, in uninstall
+    os.dup2(self._orig_src_fd, self.src_fd)
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 508, in src_fd
+    return self.src_stream.fileno()
+ValueError: I/O operation on closed file

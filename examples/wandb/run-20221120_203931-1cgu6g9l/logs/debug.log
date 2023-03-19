@@ -1,0 +1,26 @@
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_setup.py:_flush():71] setting env: {}
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203931-1cgu6g9l/logs/debug.log
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/wandb/run-20221120_203931-1cgu6g9l/logs/debug-internal.log
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_init.py:init():404] calling init triggers
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-11-20 20:39:31,763 INFO    MainThread:11063 [wandb_init.py:init():455] wandb.init() called when a run is still active
+2022-11-20 20:54:22,124 INFO    MainThread:11063 [wandb_run.py:_atexit_cleanup():1771] got exitcode: 0
+2022-11-20 20:54:22,125 INFO    MainThread:11063 [wandb_run.py:_restore():1751] restore
+2022-11-20 20:54:23,126 INFO    MainThread:11063 [wandb_run.py:_restore():1751] restore
+2022-11-20 20:54:27,516 ERROR   MainThread:11063 [wandb_run.py:_atexit_cleanup():1771] Problem finishing run
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1771, in _atexit_cleanup
+    def _atexit_cleanup(self, exit_code: int = None) -> None:
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1923, in _on_finish
+    def _on_finish(self) -> None:
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1827, in _console_stop
+    def _console_stop(self) -> None:
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 1751, in _restore
+    def _restore(self) -> None:
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 727, in uninstall
+    def uninstall(self):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/lib/redirect.py", line 506, in src_fd
+    @property
+ValueError: I/O operation on closed file

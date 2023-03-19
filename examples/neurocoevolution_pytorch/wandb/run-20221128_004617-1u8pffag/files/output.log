@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/algorithms/trainer_es.py", line 8, in <module>
+    mp.set_start_method('spawn')
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/context.py", line 243, in set_start_method
+    raise RuntimeError('context has already been set')
+RuntimeError: context has already been set

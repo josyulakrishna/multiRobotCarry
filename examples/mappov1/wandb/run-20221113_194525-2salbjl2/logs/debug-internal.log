@@ -1,0 +1,6 @@
+2022-11-13 19:45:26,297 INFO    MainThread:29405 [internal.py:wandb_internal():87] W&B internal server running at pid: 29405, started at: 2022-11-13 19:45:26.297701
+2022-11-13 19:45:26,299 DEBUG   HandlerThread:29405 [handler.py:handle_request():130] handle_request: check_version
+2022-11-13 19:45:26,299 DEBUG   SenderThread:29405 [sender.py:send():234] send: header
+2022-11-13 19:45:26,299 DEBUG   SenderThread:29405 [sender.py:send_request():248] send_request: check_version
+2022-11-13 19:45:26,300 INFO    WriterThread:29405 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/mappov1/wandb/run-20221113_194525-2salbjl2/run-2salbjl2.wandb
+2022-11-13 19:45:26,349 WARNING MainThread:29405 [internal.py:wandb_internal():146] Internal process interrupt: 1

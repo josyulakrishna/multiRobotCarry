@@ -1,0 +1,153 @@
+2022-11-27 22:29:32,757 INFO    MainThread:13536 [internal.py:wandb_internal():87] W&B internal server running at pid: 13536, started at: 2022-11-27 22:29:32.757545
+2022-11-27 22:29:32,761 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: check_version
+2022-11-27 22:29:32,761 INFO    WriterThread:13536 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/run-1nlqn108.wandb
+2022-11-27 22:29:32,763 DEBUG   SenderThread:13536 [sender.py:send():234] send: header
+2022-11-27 22:29:32,763 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: check_version
+2022-11-27 22:29:32,824 DEBUG   SenderThread:13536 [sender.py:send():234] send: run
+2022-11-27 22:29:33,030 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: run_start
+2022-11-27 22:29:33,031 INFO    SenderThread:13536 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files
+2022-11-27 22:29:33,031 INFO    SenderThread:13536 [sender.py:_start_run_threads():804] run started: 1nlqn108 with start time 1669616971
+2022-11-27 22:29:33,031 DEBUG   SenderThread:13536 [sender.py:send():234] send: summary
+2022-11-27 22:29:33,032 INFO    SenderThread:13536 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-27 22:29:34,046 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-summary.json
+2022-11-27 22:29:34,759 DEBUG   HandlerThread:13536 [meta.py:__init__():40] meta init
+2022-11-27 22:29:34,759 DEBUG   HandlerThread:13536 [meta.py:__init__():54] meta init done
+2022-11-27 22:29:34,759 DEBUG   HandlerThread:13536 [meta.py:probe():214] probe
+2022-11-27 22:29:34,766 DEBUG   HandlerThread:13536 [meta.py:_setup_git():204] setup git
+2022-11-27 22:29:34,784 DEBUG   HandlerThread:13536 [meta.py:_setup_git():211] setup git done
+2022-11-27 22:29:34,784 DEBUG   HandlerThread:13536 [meta.py:_save_pip():58] save pip
+2022-11-27 22:29:34,786 DEBUG   HandlerThread:13536 [meta.py:_save_pip():72] save pip done
+2022-11-27 22:29:34,786 DEBUG   HandlerThread:13536 [meta.py:_save_conda():79] save conda
+2022-11-27 22:29:35,042 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/conda-environment.yaml
+2022-11-27 22:29:35,043 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/requirements.txt
+2022-11-27 22:29:38,043 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/output.log
+2022-11-27 22:29:41,044 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/output.log
+2022-11-27 22:29:41,044 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/conda-environment.yaml
+2022-11-27 22:29:41,077 DEBUG   HandlerThread:13536 [meta.py:_save_conda():89] save conda done
+2022-11-27 22:29:41,078 DEBUG   HandlerThread:13536 [meta.py:probe():252] probe done
+2022-11-27 22:29:41,082 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-27 22:29:41,082 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: stop_status
+2022-11-27 22:29:41,415 DEBUG   SenderThread:13536 [sender.py:send():234] send: files
+2022-11-27 22:29:41,417 INFO    SenderThread:13536 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-27 22:29:41,935 INFO    Thread-16 :13536 [upload_job.py:push():137] Uploaded file /tmp/tmpvayig5_iwandb/h9zismcu-wandb-metadata.json
+2022-11-27 22:29:42,044 INFO    Thread-13 :13536 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-metadata.json
+2022-11-27 22:29:56,417 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-27 22:29:56,417 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: stop_status
+2022-11-27 22:30:03,002 DEBUG   SenderThread:13536 [sender.py:send():234] send: stats
+2022-11-27 22:30:11,538 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-27 22:30:11,539 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: stop_status
+2022-11-27 22:30:26,641 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-27 22:30:26,641 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: stop_status
+2022-11-27 22:30:33,212 DEBUG   SenderThread:13536 [sender.py:send():234] send: stats
+2022-11-27 22:30:41,747 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-27 22:30:41,747 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: stop_status
+2022-11-27 22:30:42,670 WARNING MainThread:13536 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-11-27 22:30:45,123 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:45,123 DEBUG   SenderThread:13536 [sender.py:send():234] send: telemetry
+2022-11-27 22:30:45,124 DEBUG   SenderThread:13536 [sender.py:send():234] send: exit
+2022-11-27 22:30:45,124 INFO    SenderThread:13536 [sender.py:send_exit():366] handling exit code: 0
+2022-11-27 22:30:45,124 INFO    SenderThread:13536 [sender.py:send_exit():368] handling runtime: 72
+2022-11-27 22:30:45,127 INFO    SenderThread:13536 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-27 22:30:45,127 INFO    SenderThread:13536 [sender.py:send_exit():374] send defer
+2022-11-27 22:30:45,127 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:45,128 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,128 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 0
+2022-11-27 22:30:45,128 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,128 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 0
+2022-11-27 22:30:45,128 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 1
+2022-11-27 22:30:45,128 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,128 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 1
+2022-11-27 22:30:45,187 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,187 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 1
+2022-11-27 22:30:45,188 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 2
+2022-11-27 22:30:45,188 DEBUG   SenderThread:13536 [sender.py:send():234] send: stats
+2022-11-27 22:30:45,188 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,188 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 2
+2022-11-27 22:30:45,188 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,188 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 2
+2022-11-27 22:30:45,188 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 3
+2022-11-27 22:30:45,188 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,189 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 3
+2022-11-27 22:30:45,189 DEBUG   SenderThread:13536 [sender.py:send():234] send: summary
+2022-11-27 22:30:45,189 INFO    SenderThread:13536 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-27 22:30:45,189 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,189 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 3
+2022-11-27 22:30:45,189 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 4
+2022-11-27 22:30:45,189 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,189 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 4
+2022-11-27 22:30:45,190 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,190 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 4
+2022-11-27 22:30:45,229 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:45,318 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 5
+2022-11-27 22:30:45,318 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:45,318 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:45,319 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 5
+2022-11-27 22:30:45,319 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:45,319 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 5
+2022-11-27 22:30:45,319 INFO    SenderThread:13536 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-11-27 22:30:45,419 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,056 INFO    SenderThread:13536 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-summary.json
+2022-11-27 22:30:46,056 INFO    SenderThread:13536 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/config.yaml
+2022-11-27 22:30:46,056 INFO    SenderThread:13536 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/output.log
+2022-11-27 22:30:46,057 INFO    SenderThread:13536 [dir_watcher.py:finish():313] scan: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files
+2022-11-27 22:30:46,057 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/conda-environment.yaml conda-environment.yaml
+2022-11-27 22:30:46,057 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/output.log output.log
+2022-11-27 22:30:46,057 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-summary.json wandb-summary.json
+2022-11-27 22:30:46,057 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/config.yaml config.yaml
+2022-11-27 22:30:46,063 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/requirements.txt requirements.txt
+2022-11-27 22:30:46,069 INFO    SenderThread:13536 [dir_watcher.py:finish():327] scan save: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-metadata.json wandb-metadata.json
+2022-11-27 22:30:46,075 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 6
+2022-11-27 22:30:46,076 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,087 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:46,087 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 6
+2022-11-27 22:30:46,088 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:46,088 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 6
+2022-11-27 22:30:46,088 INFO    SenderThread:13536 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-27 22:30:46,197 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,205 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,311 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,312 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,413 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,414 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,500 INFO    Thread-21 :13536 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/requirements.txt
+2022-11-27 22:30:46,503 INFO    Thread-18 :13536 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/output.log
+2022-11-27 22:30:46,515 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,515 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,540 INFO    Thread-17 :13536 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/conda-environment.yaml
+2022-11-27 22:30:46,543 INFO    Thread-20 :13536 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/config.yaml
+2022-11-27 22:30:46,554 INFO    Thread-19 :13536 [upload_job.py:push():137] Uploaded file /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/files/wandb-summary.json
+2022-11-27 22:30:46,617 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,617 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,718 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:46,719 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:46,754 INFO    Thread-12 :13536 [sender.py:transition_state():387] send defer: 7
+2022-11-27 22:30:46,755 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:46,755 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 7
+2022-11-27 22:30:46,755 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:46,755 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 7
+2022-11-27 22:30:46,820 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:47,041 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 8
+2022-11-27 22:30:47,041 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:47,042 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:47,042 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 8
+2022-11-27 22:30:47,042 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:47,042 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 8
+2022-11-27 22:30:47,043 INFO    SenderThread:13536 [sender.py:transition_state():387] send defer: 9
+2022-11-27 22:30:47,043 DEBUG   SenderThread:13536 [sender.py:send():234] send: final
+2022-11-27 22:30:47,043 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: defer
+2022-11-27 22:30:47,043 DEBUG   SenderThread:13536 [sender.py:send():234] send: footer
+2022-11-27 22:30:47,043 INFO    HandlerThread:13536 [handler.py:handle_request_defer():147] handle defer: 9
+2022-11-27 22:30:47,044 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: defer
+2022-11-27 22:30:47,044 INFO    SenderThread:13536 [sender.py:send_request_defer():383] handle sender defer: 9
+2022-11-27 22:30:47,143 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: poll_exit
+2022-11-27 22:30:47,144 DEBUG   SenderThread:13536 [sender.py:send_request():248] send_request: poll_exit
+2022-11-27 22:30:47,144 INFO    SenderThread:13536 [file_pusher.py:join():182] waiting for file pusher
+2022-11-27 22:30:47,345 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: get_summary
+2022-11-27 22:30:47,346 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: sampled_history
+2022-11-27 22:30:47,347 DEBUG   HandlerThread:13536 [handler.py:handle_request():130] handle_request: shutdown
+2022-11-27 22:30:47,347 INFO    HandlerThread:13536 [handler.py:finish():731] shutting down handler
+2022-11-27 22:30:48,043 INFO    WriterThread:13536 [datastore.py:close():281] close: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221127_222931-1nlqn108/run-1nlqn108.wandb
+2022-11-27 22:30:48,344 INFO    SenderThread:13536 [sender.py:finish():1070] shutting down sender
+2022-11-27 22:30:48,344 INFO    SenderThread:13536 [file_pusher.py:finish():177] shutting down file pusher
+2022-11-27 22:30:48,344 INFO    SenderThread:13536 [file_pusher.py:join():182] waiting for file pusher
+2022-11-27 22:30:48,612 INFO    MainThread:13536 [internal.py:handle_exit():77] Internal process exited

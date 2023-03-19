@@ -1,0 +1,69 @@
+2022-11-25 16:55:45,843 INFO    MainThread:27354 [internal.py:wandb_internal():87] W&B internal server running at pid: 27354, started at: 2022-11-25 16:55:45.842740
+2022-11-25 16:55:45,845 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: check_version
+2022-11-25 16:55:45,846 INFO    WriterThread:27354 [datastore.py:open_for_write():77] open: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/run-uferkf62.wandb
+2022-11-25 16:55:45,848 DEBUG   SenderThread:27354 [sender.py:send():234] send: header
+2022-11-25 16:55:45,848 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: check_version
+2022-11-25 16:55:45,907 DEBUG   SenderThread:27354 [sender.py:send():234] send: run
+2022-11-25 16:55:46,055 INFO    SenderThread:27354 [dir_watcher.py:__init__():169] watching files in: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files
+2022-11-25 16:55:46,056 INFO    SenderThread:27354 [sender.py:_start_run_threads():804] run started: uferkf62 with start time 1669424144
+2022-11-25 16:55:46,056 DEBUG   SenderThread:27354 [sender.py:send():234] send: summary
+2022-11-25 16:55:46,056 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: run_start
+2022-11-25 16:55:46,057 INFO    SenderThread:27354 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-25 16:55:47,073 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/wandb-summary.json
+2022-11-25 16:55:47,629 DEBUG   HandlerThread:27354 [meta.py:__init__():40] meta init
+2022-11-25 16:55:47,629 DEBUG   HandlerThread:27354 [meta.py:__init__():54] meta init done
+2022-11-25 16:55:47,629 DEBUG   HandlerThread:27354 [meta.py:probe():214] probe
+2022-11-25 16:55:47,635 DEBUG   HandlerThread:27354 [meta.py:_setup_git():204] setup git
+2022-11-25 16:55:47,652 DEBUG   HandlerThread:27354 [meta.py:_setup_git():211] setup git done
+2022-11-25 16:55:47,652 DEBUG   HandlerThread:27354 [meta.py:_save_pip():58] save pip
+2022-11-25 16:55:47,653 DEBUG   HandlerThread:27354 [meta.py:_save_pip():72] save pip done
+2022-11-25 16:55:47,653 DEBUG   HandlerThread:27354 [meta.py:_save_conda():79] save conda
+2022-11-25 16:55:48,065 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/requirements.txt
+2022-11-25 16:55:48,066 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/conda-environment.yaml
+2022-11-25 16:55:51,066 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:55:53,855 DEBUG   HandlerThread:27354 [meta.py:_save_conda():89] save conda done
+2022-11-25 16:55:53,855 DEBUG   HandlerThread:27354 [meta.py:probe():252] probe done
+2022-11-25 16:55:53,859 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:55:53,859 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:55:53,969 DEBUG   SenderThread:27354 [sender.py:send():234] send: files
+2022-11-25 16:55:53,969 INFO    SenderThread:27354 [sender.py:_save_file():939] saving file wandb-metadata.json with policy now
+2022-11-25 16:55:54,067 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:55:54,068 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/conda-environment.yaml
+2022-11-25 16:55:54,068 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_created():217] file/dir created: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/wandb-metadata.json
+2022-11-25 16:55:54,510 INFO    Thread-16 :27354 [upload_job.py:push():137] Uploaded file /tmp/tmpeygi0rpbwandb/150yvcy0-wandb-metadata.json
+2022-11-25 16:55:56,068 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:55:58,069 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:00,069 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:04,071 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:06,071 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:08,072 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:08,997 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:56:08,998 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:56:10,073 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:12,074 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:14,075 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:15,896 DEBUG   SenderThread:27354 [sender.py:send():234] send: stats
+2022-11-25 16:56:16,075 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:17,032 DEBUG   SenderThread:27354 [sender.py:send():234] send: history
+2022-11-25 16:56:17,032 DEBUG   SenderThread:27354 [sender.py:send():234] send: summary
+2022-11-25 16:56:17,033 INFO    SenderThread:27354 [sender.py:_save_file():939] saving file wandb-summary.json with policy end
+2022-11-25 16:56:17,076 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/wandb-summary.json
+2022-11-25 16:56:18,076 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:20,077 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:56:24,104 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:56:24,105 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:56:39,216 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:56:39,217 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:56:46,198 DEBUG   SenderThread:27354 [sender.py:send():234] send: stats
+2022-11-25 16:56:54,324 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:56:54,325 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:57:09,429 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: stop_status
+2022-11-25 16:57:09,429 DEBUG   SenderThread:27354 [sender.py:send_request():248] send_request: stop_status
+2022-11-25 16:57:16,027 WARNING MainThread:27354 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-11-25 16:57:16,434 DEBUG   SenderThread:27354 [sender.py:send():234] send: stats
+2022-11-25 16:57:18,106 INFO    Thread-13 :27354 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/files/output.log
+2022-11-25 16:57:18,328 DEBUG   HandlerThread:27354 [handler.py:handle_request():130] handle_request: shutdown
+2022-11-25 16:57:18,328 INFO    HandlerThread:27354 [handler.py:finish():731] shutting down handler
+2022-11-25 16:57:18,445 INFO    WriterThread:27354 [datastore.py:close():281] close: /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221125_165544-uferkf62/run-uferkf62.wandb
+2022-11-25 16:57:18,446 INFO    SenderThread:27354 [sender.py:finish():1070] shutting down sender
+2022-11-25 16:57:18,446 INFO    SenderThread:27354 [dir_watcher.py:finish():283] shutting down directory watcher

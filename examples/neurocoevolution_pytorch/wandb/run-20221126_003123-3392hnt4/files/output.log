@@ -1,0 +1,11 @@
+
+Hello world from worker
+{'generation': 0, 'prev_gen_fit_1': -69.13333333333335, 'mut_gen_fit_1': -100.66666666666669, 'prev_gen_fit_2': -103.06666666666663, 'mut_gen_fit_2': -100.66666666666669, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 1, 'prev_gen_fit_1': -67.86666666666669, 'mut_gen_fit_1': -69.69999999999999, 'prev_gen_fit_2': -67.86666666666669, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 2, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 3, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -100.5}
+{'generation': 4, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 5, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -100.5}
+{'generation': 6, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 7, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}
+{'generation': 8, 'prev_gen_fit_1': -35.30000000000002, 'mut_gen_fit_1': -69.03333333333332, 'prev_gen_fit_2': -35.30000000000002, 'mut_gen_fit_2': -36.83333333333334, 'team_player1and2hofg': -2.700000000000001}

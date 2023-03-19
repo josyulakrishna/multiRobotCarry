@@ -1,0 +1,39 @@
+# General Settings
+env: pong_v3
+name: pong_ga
+
+# Algorithm settings
+algorithm: es
+mutation_power: 0.05
+population_pool: 3
+population_size: 5
+#prev
+number_elites: 1
+vbs_steps: 500
+
+# System settings
+num_gpus: 0
+num_workers: 1
+num_cpus_for_driver: 1
+
+# Logging settings
+log_level: ERROR
+logger_config:
+  wandb:
+    project: neurocoevolution
+num_train_videos: 5
+
+# Experiment Settings
+render: true
+evaluation_games: 2
+max_evaluation_steps: 500
+max_timesteps_per_episode: 500
+number_actions: 2
+random_action: 1
+random_action_probability: 0.05
+stop_criteria:
+  timesteps_total: 1_000
+  generations: 10000
+
+
+

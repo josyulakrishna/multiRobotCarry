@@ -1,0 +1,46 @@
+2022-12-01 14:44:03,123 INFO    MainThread:16754 [wandb_setup.py:_flush():71] setting env: {}
+2022-12-01 14:44:03,123 INFO    MainThread:16754 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-12-01 14:44:03,123 INFO    MainThread:16754 [wandb_init.py:_log_setup():371] Logging user logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221201_144403-sb8eo2ki/logs/debug.log
+2022-12-01 14:44:03,123 INFO    MainThread:16754 [wandb_init.py:_log_setup():372] Logging internal logs to /home/josyula/Programs/MAS_Project/gym_envs_urdf/examples/neurocoevolution_pytorch/wandb/run-20221201_144403-sb8eo2ki/logs/debug-internal.log
+2022-12-01 14:44:03,123 INFO    MainThread:16754 [wandb_init.py:init():404] calling init triggers
+2022-12-01 14:44:03,124 INFO    MainThread:16754 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-12-01 14:44:03,124 INFO    MainThread:16754 [wandb_init.py:init():460] starting backend
+2022-12-01 14:44:03,124 INFO    MainThread:16754 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-12-01 14:44:03,125 INFO    MainThread:16754 [backend.py:ensure_launched():216] starting backend process...
+2022-12-01 14:44:03,130 ERROR   MainThread:16754 [wandb_init.py:init():958] error
+Traceback (most recent call last):
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 931, in init
+    run = wi.init()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 467, in init
+    backend.ensure_launched()
+  File "/home/josyula/miniconda3/lib/python3.9/site-packages/wandb/sdk/backend/backend.py", line 219, in ensure_launched
+    self.wandb_process.start()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/context.py", line 284, in _Popen
+    return Popen(process_obj)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/home/josyula/miniconda3/lib/python3.9/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
